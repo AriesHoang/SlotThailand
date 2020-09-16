@@ -1,0 +1,20 @@
+
+effect_spin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 246, 238
+  orig: 246, 238
+  offset: 0, 0
+  index: -1
+SPIN2
+  rotate: false
+  xy: 250, 163
+  size: 191, 77
+  orig: 191, 77
+  offset: 0, 0
+  index: -1

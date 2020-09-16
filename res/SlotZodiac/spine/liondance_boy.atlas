@@ -1,0 +1,97 @@
+
+liondance_boy.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chan T
+  rotate: false
+  xy: 2, 78
+  size: 118, 131
+  orig: 120, 133
+  offset: 1, 1
+  index: -1
+Layer 208
+  rotate: false
+  xy: 315, 778
+  size: 253, 191
+  orig: 255, 193
+  offset: 1, 1
+  index: -1
+Layer-193
+  rotate: false
+  xy: 2, 211
+  size: 196, 195
+  orig: 205, 263
+  offset: 3, 25
+  index: -1
+chan-P
+  rotate: false
+  xy: 2, 2
+  size: 86, 74
+  orig: 86, 94
+  offset: 0, 12
+  index: -1
+dai qua
+  rotate: true
+  xy: 498, 705
+  size: 71, 62
+  orig: 73, 64
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: true
+  xy: 262, 565
+  size: 92, 48
+  orig: 94, 50
+  offset: 1, 1
+  index: -1
+eyes copy
+  rotate: true
+  xy: 200, 314
+  size: 92, 46
+  orig: 94, 48
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 570, 816
+  size: 153, 194
+  orig: 155, 196
+  offset: 1, 1
+  index: -1
+lion-head
+  rotate: false
+  xy: 2, 408
+  size: 258, 249
+  orig: 260, 251
+  offset: 1, 1
+  index: -1
+lua bay 1
+  rotate: false
+  xy: 315, 699
+  size: 181, 77
+  orig: 183, 79
+  offset: 1, 1
+  index: -1
+tau P
+  rotate: true
+  xy: 122, 131
+  size: 78, 75
+  orig: 80, 77
+  offset: 1, 1
+  index: -1
+tay P
+  rotate: false
+  xy: 766, 871
+  size: 128, 98
+  orig: 130, 100
+  offset: 1, 1
+  index: -1
+tay T
+  rotate: false
+  xy: 2, 659
+  size: 311, 310
+  orig: 313, 312
+  offset: 1, 1
+  index: -1

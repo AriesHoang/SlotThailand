@@ -1,0 +1,89 @@
+effect_peach.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: false
+  xy: 427, 363
+  size: 320, 198
+  orig: 322, 244
+  offset: 1, 1
+  index: -1
+D1
+  rotate: false
+  xy: 785, 633
+  size: 133, 140
+  orig: 135, 142
+  offset: 1, 1
+  index: -1
+D2
+  rotate: false
+  xy: 330, 89
+  size: 117, 110
+  orig: 119, 112
+  offset: 1, 1
+  index: -1
+D3
+  rotate: true
+  xy: 330, 201
+  size: 135, 123
+  orig: 137, 125
+  offset: 1, 1
+  index: -1
+Layer 11
+  rotate: true
+  xy: 785, 775
+  size: 241, 156
+  orig: 243, 158
+  offset: 1, 1
+  index: -1
+bl1
+  rotate: false
+  xy: 749, 527
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+bl2
+  rotate: false
+  xy: 785, 597
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+bl3
+  rotate: false
+  xy: 943, 971
+  size: 71, 45
+  orig: 73, 47
+  offset: 1, 1
+  index: -1
+bl4
+  rotate: false
+  xy: 330, 53
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+bl6
+  rotate: false
+  xy: 427, 563
+  size: 356, 453
+  orig: 358, 455
+  offset: 1, 1
+  index: -1
+bling
+  rotate: false
+  xy: 2, 2
+  size: 326, 334
+  orig: 328, 336
+  offset: 1, 1
+  index: -1
+peah
+  rotate: false
+  xy: 2, 338
+  size: 423, 678
+  orig: 464, 680
+  offset: 27, 1
+  index: -1

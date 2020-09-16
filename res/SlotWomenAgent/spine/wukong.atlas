@@ -1,0 +1,90 @@
+
+wukong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 211
+  size: 418, 539
+  orig: 420, 541
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 422, 615
+  size: 18, 59
+  orig: 20, 61
+  offset: 1, 1
+  index: -1
+Layer 4 copy
+  rotate: false
+  xy: 443, 691
+  size: 18, 59
+  orig: 20, 61
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 422, 676
+  size: 19, 74
+  orig: 21, 76
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 58
+  size: 19, 74
+  orig: 21, 76
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: true
+  xy: 2, 2
+  size: 54, 17
+  orig: 56, 19
+  offset: 1, 1
+  index: -1
+Layer 7 copy 2
+  rotate: true
+  xy: 2, 2
+  size: 54, 17
+  orig: 56, 19
+  offset: 1, 1
+  index: -1
+Layer 7 copy
+  rotate: true
+  xy: 422, 559
+  size: 54, 17
+  orig: 56, 19
+  offset: 1, 1
+  index: -1
+Tocs1
+  rotate: false
+  xy: 38, 156
+  size: 26, 53
+  orig: 28, 55
+  offset: 1, 1
+  index: -1
+toc2
+  rotate: false
+  xy: 66, 161
+  size: 27, 48
+  orig: 29, 50
+  offset: 1, 1
+  index: -1
+toc3
+  rotate: false
+  xy: 2, 134
+  size: 34, 75
+  orig: 36, 77
+  offset: 1, 1
+  index: -1
+toc4
+  rotate: false
+  xy: 463, 712
+  size: 37, 38
+  orig: 39, 40
+  offset: 1, 1
+  index: -1

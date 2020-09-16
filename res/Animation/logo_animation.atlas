@@ -1,0 +1,41 @@
+
+logo_animation.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LOc
+  rotate: false
+  xy: 2, 376
+  size: 461, 126
+  orig: 463, 128
+  offset: 1, 1
+  index: -1
+LOc copy
+  rotate: false
+  xy: 2, 248
+  size: 461, 126
+  orig: 463, 128
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 465, 466
+  size: 37, 36
+  orig: 39, 38
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 135
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 173
+  size: 73, 73
+  orig: 75, 75
+  offset: 1, 1
+  index: -1

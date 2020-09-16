@@ -1,0 +1,326 @@
+{
+  "script": [
+    "js/SlotThreeKingdom/Global.js",
+    "js/SlotThreeKingdom/resource.js",
+    "js/SlotThreeKingdom/SlotThreeKingdomSoundPlayer.js",
+    "js/SlotThreeKingdom/Network/SlotClient.js",
+    "js/SlotThreeKingdom/FloatButton/SlotThreeKingdomFloatButton.js",
+    "js/SlotThreeKingdom/FloatButton/SlotThreeKingdomMinigamePopup.js",
+    "js/SlotThreeKingdom/Controller/BaseController.js",
+    "js/SlotThreeKingdom/Controller/HistoryController.js",
+    "js/SlotThreeKingdom/Controller/RankingController.js",
+    "js/SlotThreeKingdom/Controller/SlotController.js",
+    "js/SlotThreeKingdom/Controller/BonusController.js",
+    "js/SlotThreeKingdom/Controller/X2Controller.js",
+    "js/SlotThreeKingdom/Model/SlotObject.js",
+    "js/SlotThreeKingdom/Model/MainButton.js",
+    "js/SlotThreeKingdom/Model/SlotFrame.js",
+    "js/SlotThreeKingdom/Model/WiredSlotFrame.js",
+    "js/SlotThreeKingdom/Model/GoldenTime.js",
+    "js/SlotThreeKingdom/Model/BonusObject.js",
+    "js/SlotThreeKingdom/Model/SettingItem.js",
+    "js/SlotThreeKingdom/Model/FreeSpinNode.js",
+    "js/SlotThreeKingdom/Model/Layer/LoadingLayer.js",
+    "js/SlotThreeKingdom/Model/Popup/IPopup.js",
+    "js/SlotThreeKingdom/Model/Popup/X2Popup.js",
+    "js/SlotThreeKingdom/Model/Dialog/IDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/PagedDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/RewardDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/HistoryDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/CompleteBonusDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/CompleteFreeSpinDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/RankingDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/BonusDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/RecvFreeSpinDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/BonusPrepareDialog.js",
+    "js/SlotThreeKingdom/Model/Dialog/ErrorDialog.js",
+    "js/SlotThreeKingdom/Game/BaseScene.js",
+    "js/SlotThreeKingdom/Game/SlotScene.js",
+    "js/SlotThreeKingdom/Game/BonusScene.js",
+    "js/SlotThreeKingdom/Game/LoadingScene.js"
+  ],
+  "texture": [
+    {
+      "img": "res/SlotThreeKingdom/bonus_bg.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/bonus_natra_nolotus.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/loading.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/main_background.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/slotwomenagent_frame.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/slotwomenagent_bg_popup.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/paytable/paytable_1.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/paytable/paytable_2.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/paytable/paytable_3.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/paytable/paytable_4.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/paytable/paytable_5.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_1.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_2.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_3.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_4.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_5.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_6.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_7.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_8.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_9.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_10.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_11.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_12.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_13.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_14.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_15.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_16.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_17.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_18.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_19.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_20.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_21.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_22.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_23.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_24.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/payline/Payline_25.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/SlotObject.png",
+      "plist": "res/SlotThreeKingdom/SlotObject.plist"
+    },
+    {
+      "img": "res/SlotThreeKingdom/MainGame.png",
+      "plist": "res/SlotThreeKingdom/MainGame.plist"
+    },
+    {
+      "img": "res/SlotThreeKingdom/BonusGame.png",
+      "plist": "res/SlotThreeKingdom/BonusGame.plist"
+    },
+    {
+      "img": "res/SlotThreeKingdom/Dialog.png",
+      "plist": "res/SlotThreeKingdom/Dialog.plist"
+    },
+    {
+      "img": "res/SlotThreeKingdom/Popup.png",
+      "plist": "res/SlotThreeKingdom/Popup.plist"
+    },
+    {
+      "img": "res/SlotThreeKingdom/FastRoll.png",
+      "plist": "res/SlotThreeKingdom/FastRoll.plist"
+    },
+    {
+      "img": "res/SlotThreeKingdom/agent.png"
+    },
+    {
+      "img": "res/SlotThreeKingdom/lancan.png"
+    }
+  ],
+  "fonts": [
+    {
+      "img": "res/SlotThreeKingdom/font/total_reward_font.png",
+      "fnt": "res/SlotThreeKingdom/font/total_reward_font.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/creditfont.png",
+      "fnt": "res/SlotThreeKingdom/font/creditfont.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/freespinfont.png",
+      "fnt": "res/SlotThreeKingdom/font/freespinfont.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/happyhourfont.png",
+      "fnt": "res/SlotThreeKingdom/font/happyhourfont.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/resultfont.png",
+      "fnt": "res/SlotThreeKingdom/font/resultfont.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/reward_jackpot_font.png",
+      "fnt": "res/SlotThreeKingdom/font/reward_jackpot_font.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/jackpotnormalfont.png",
+      "fnt": "res/SlotThreeKingdom/font/jackpotnormalfont.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/reward_normal_font.png",
+      "fnt": "res/SlotThreeKingdom/font/reward_normal_font.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/popupfont.png",
+      "fnt": "res/SlotThreeKingdom/font/popupfont.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/bonus_reward.png",
+      "fnt": "res/SlotThreeKingdom/font/bonus_reward.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/bonus_multiplier.png",
+      "fnt": "res/SlotThreeKingdom/font/bonus_multiplier.fnt"
+    },
+    {
+      "img": "res/SlotThreeKingdom/font/bonus_result.png",
+      "fnt": "res/SlotThreeKingdom/font/bonus_result.fnt"
+    }
+  ],
+  "spine": {
+    "slotmhv_wukong_ingame": {
+      "json": "res/SlotThreeKingdom/spine/wukong.json",
+      "atlas": "res/SlotThreeKingdom/spine/wukong.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/wukong.png"
+      ]
+    },
+    "slotmhv_effect_sym_fire": {
+      "json": "res/SlotThreeKingdom/spine/effect_sym_fire.json",
+      "atlas": "res/SlotThreeKingdom/spine/effect_sym_fire.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/effect_sym_fire.png"
+      ]
+    },
+    "slotmhv_effect_lotus": {
+      "json": "res/SlotThreeKingdom/spine/effect_lotus.json",
+      "atlas": "res/SlotThreeKingdom/spine/effect_lotus.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/effect_lotus.png"
+      ]
+    },
+    "slotmhv_effect_book": {
+      "json": "res/SlotThreeKingdom/spine/effect_book.json",
+      "atlas": "res/SlotThreeKingdom/spine/effect_book.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/effect_book.png"
+      ]
+    },
+    "slotmhv_effect_spin": {
+      "json": "res/SlotThreeKingdom/spine/effect_spin.json",
+      "atlas": "res/SlotThreeKingdom/spine/effect_spin.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/effect_spin.png"
+      ]
+    },
+    "slotmhv_effect_peach": {
+      "json": "res/SlotThreeKingdom/spine/effect_peach.json",
+      "atlas": "res/SlotThreeKingdom/spine/effect_peach.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/effect_peach.png"
+      ]
+    },
+    "slotmhv_win_big": {
+      "json": "res/SlotThreeKingdom/spine/win_big.json",
+      "atlas": "res/SlotThreeKingdom/spine/win_big.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/win_big.png"
+      ]
+    },
+    "slotmhv_win_bonus": {
+      "json": "res/SlotThreeKingdom/spine/win_bonus.json",
+      "atlas": "res/SlotThreeKingdom/spine/win_bonus.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/win_bonus.png"
+      ]
+    },
+    "slotmhv_win_freespin": {
+      "json": "res/SlotThreeKingdom/spine/win_freespin.json",
+      "atlas": "res/SlotThreeKingdom/spine/win_freespin.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/win_freespin.png"
+      ]
+    },
+    "slotmhv_win_jackpot": {
+      "json": "res/SlotThreeKingdom/spine/win_jackpot.json",
+      "atlas": "res/SlotThreeKingdom/spine/win_jackpot.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/win_jackpot.png"
+      ]
+    },
+    "slotmhv_win_rich": {
+      "json": "res/SlotThreeKingdom/spine/win_rich.json",
+      "atlas": "res/SlotThreeKingdom/spine/win_rich.atlas",
+      "texture": [
+        "res/SlotThreeKingdom/spine/win_rich.png"
+      ]
+    }
+  },
+  "raw": [
+  ],
+  "sound": [
+    "res/SlotThreeKingdom/sound/bonus.mp3",
+    "res/SlotThreeKingdom/sound/freespin_xuathien.mp3",
+    "res/SlotThreeKingdom/sound/jackpot_demdong.mp3",
+    "res/SlotThreeKingdom/sound/theme_hauvuong.mp3",
+    "res/SlotThreeKingdom/sound/spin_button_press.mp3",
+    "res/SlotThreeKingdom/sound/quayfreespin.mp3",
+    "res/SlotThreeKingdom/sound/wild_xuathien.mp3",
+    "res/SlotThreeKingdom/sound/spin.mp3",
+    "res/SlotThreeKingdom/sound/win_large.mp3",
+    "res/SlotThreeKingdom/sound/win_medium.mp3",
+    "res/SlotThreeKingdom/sound/win_small.mp3"
+  ]
+}

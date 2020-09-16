@@ -1,0 +1,33 @@
+{
+    "project_type": "javascript",
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 2,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "ccui", "spine", "extensions"],
+
+    "jsList" : [
+        "src/Core/SpineCache.js",
+        "src/Core/GlobalEvent.js",
+        "src/Core/FacebookPlugin.js",
+        "src/Core/SystemPlugin.js",
+        "src/Core/Widget.js",
+        "src/Core/EditBox.js",
+        "src/Core/CustomScrollView.js",
+        "src/Core/TableView.js",
+        "src/Core/ListViewWithAdaptor.js",
+        "src/Core/TextField.js",
+        "src/Core/ImageBitmap.js",
+        "src/Core/NewRichText.js",
+        "src/Socket/LobbySocket.js",
+        "src/Socket/SFSSocket.js",
+        "src/GameLaucher/GameModule.js",
+        "src/GameLaucher/GameLaucher.js",
+        "src/Scene/HtmlViewNavigator.js",
+        "src/Scene/LoadingScene.js"
+    ]
+}

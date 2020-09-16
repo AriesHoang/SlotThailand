@@ -1,0 +1,132 @@
+
+liondance_win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 2, 201
+  size: 478, 208
+  orig: 478, 208
+  offset: 0, 0
+  index: -1
+JP
+  rotate: false
+  xy: 2, 551
+  size: 613, 120
+  orig: 614, 121
+  offset: 1, 1
+  index: -1
+Layer 15 copy 13
+  rotate: false
+  xy: 2, 2
+  size: 72, 64
+  orig: 74, 64
+  offset: 1, 0
+  index: -1
+Layer 15 copy 34
+  rotate: false
+  xy: 2, 2
+  size: 72, 64
+  orig: 74, 64
+  offset: 1, 0
+  index: -1
+Layer 15 copy 35
+  rotate: false
+  xy: 2, 2
+  size: 72, 64
+  orig: 74, 64
+  offset: 1, 0
+  index: -1
+Layer 15 copy 37
+  rotate: false
+  xy: 934, 595
+  size: 78, 78
+  orig: 80, 80
+  offset: 1, 1
+  index: -1
+Layer 15 copy 8
+  rotate: true
+  xy: 482, 288
+  size: 121, 106
+  orig: 123, 106
+  offset: 1, 0
+  index: -1
+Layer 15 copy 11
+  rotate: true
+  xy: 482, 288
+  size: 121, 106
+  orig: 123, 106
+  offset: 1, 0
+  index: -1
+Layer 15 copy 12
+  rotate: true
+  xy: 482, 288
+  size: 121, 106
+  orig: 123, 106
+  offset: 1, 0
+  index: -1
+Layer 15 copy 14
+  rotate: true
+  xy: 482, 288
+  size: 121, 106
+  orig: 123, 106
+  offset: 1, 0
+  index: -1
+Layer 15 copy 9
+  rotate: true
+  xy: 482, 288
+  size: 121, 106
+  orig: 123, 106
+  offset: 1, 0
+  index: -1
+Layer 18 copy
+  rotate: false
+  xy: 2, 673
+  size: 645, 342
+  orig: 645, 343
+  offset: 0, 1
+  index: -1
+Layer 3 copy
+  rotate: true
+  xy: 649, 275
+  size: 398, 283
+  orig: 400, 285
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 649, 675
+  size: 363, 340
+  orig: 363, 340
+  offset: 0, 0
+  index: -1
+No hu
+  rotate: false
+  xy: 497, 9
+  size: 381, 153
+  orig: 381, 153
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 497, 164
+  size: 438, 109
+  orig: 438, 109
+  offset: 0, 0
+  index: -1
+giau to
+  rotate: false
+  xy: 2, 68
+  size: 493, 131
+  orig: 493, 131
+  offset: 0, 0
+  index: -1
+thang lon
+  rotate: false
+  xy: 2, 411
+  size: 583, 138
+  orig: 584, 138
+  offset: 1, 0
+  index: -1

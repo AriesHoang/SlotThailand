@@ -1,0 +1,125 @@
+
+win_freespin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 715
+  size: 516, 490
+  orig: 516, 490
+  offset: 0, 0
+  index: -1
+Layer 15 copy 13
+  rotate: false
+  xy: 314, 661
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+Layer 15 copy 34
+  rotate: false
+  xy: 314, 661
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+Layer 15 copy 35
+  rotate: false
+  xy: 314, 661
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+Layer 15 copy 37
+  rotate: false
+  xy: 998, 1333
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Layer 15 copy 8
+  rotate: false
+  xy: 2, 2
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Layer 15 copy 10
+  rotate: false
+  xy: 2, 2
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Layer 15 copy 11
+  rotate: false
+  xy: 2, 2
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Layer 15 copy 12
+  rotate: false
+  xy: 2, 2
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Layer 15 copy 14
+  rotate: false
+  xy: 2, 2
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Layer 15 copy 9
+  rotate: false
+  xy: 2, 2
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Layer-19
+  rotate: false
+  xy: 520, 841
+  size: 367, 364
+  orig: 367, 364
+  offset: 0, 0
+  index: -1
+Levels 2
+  rotate: true
+  xy: 1683, 1625
+  size: 406, 321
+  orig: 406, 321
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: true
+  xy: 2, 91
+  size: 622, 310
+  orig: 622, 310
+  offset: 0, 0
+  index: -1
+freespin
+  rotate: false
+  xy: 2, 1398
+  size: 1066, 231
+  orig: 1066, 231
+  offset: 0, 0
+  index: -1
+giau to
+  rotate: false
+  xy: 2, 1631
+  size: 1679, 400
+  orig: 1679, 400
+  offset: 0, 0
+  index: -1
+thang lon
+  rotate: false
+  xy: 2, 1207
+  size: 994, 189
+  orig: 994, 189
+  offset: 0, 0
+  index: -1

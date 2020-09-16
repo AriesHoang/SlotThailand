@@ -1,0 +1,110 @@
+win_jackpot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 527, 135
+  size: 516, 490
+  orig: 516, 490
+  offset: 0, 0
+  index: -1
+Layer 15 copy 13
+  rotate: false
+  xy: 527, 653
+  size: 59, 52
+  orig: 61, 52
+  offset: 1, 0
+  index: -1
+Layer 15 copy 34
+  rotate: false
+  xy: 527, 653
+  size: 59, 52
+  orig: 61, 52
+  offset: 1, 0
+  index: -1
+Layer 15 copy 35
+  rotate: false
+  xy: 527, 653
+  size: 59, 52
+  orig: 61, 52
+  offset: 1, 0
+  index: -1
+Layer 15 copy 37
+  rotate: false
+  xy: 410, 409
+  size: 63, 63
+  orig: 65, 65
+  offset: 1, 1
+  index: -1
+Layer 15 copy 8
+  rotate: true
+  xy: 2, 34
+  size: 99, 87
+  orig: 101, 87
+  offset: 1, 0
+  index: -1
+Layer 15 copy 10
+  rotate: true
+  xy: 2, 34
+  size: 99, 87
+  orig: 101, 87
+  offset: 1, 0
+  index: -1
+Layer 15 copy 11
+  rotate: true
+  xy: 2, 34
+  size: 99, 87
+  orig: 101, 87
+  offset: 1, 0
+  index: -1
+Layer 15 copy 12
+  rotate: true
+  xy: 2, 34
+  size: 99, 87
+  orig: 101, 87
+  offset: 1, 0
+  index: -1
+Layer 15 copy 14
+  rotate: true
+  xy: 2, 34
+  size: 99, 87
+  orig: 101, 87
+  offset: 1, 0
+  index: -1
+Layer 15 copy 9
+  rotate: true
+  xy: 2, 34
+  size: 99, 87
+  orig: 101, 87
+  offset: 1, 0
+  index: -1
+Layer-19
+  rotate: false
+  xy: 626, 653
+  size: 367, 364
+  orig: 367, 364
+  offset: 0, 0
+  index: -1
+Levels 2
+  rotate: false
+  xy: 2, 151
+  size: 406, 321
+  orig: 406, 321
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 2, 707
+  size: 622, 310
+  orig: 622, 310
+  offset: 0, 0
+  index: -1
+no hu
+  rotate: false
+  xy: 2, 474
+  size: 523, 231
+  orig: 523, 231
+  offset: 0, 0
+  index: -1

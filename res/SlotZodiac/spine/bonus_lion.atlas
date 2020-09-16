@@ -1,0 +1,47 @@
+bonus_lion.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lanter B
+  rotate: false
+  xy: 2, 293
+  size: 250, 699
+  orig: 252, 701
+  offset: 1, 1
+  index: -1
+lanter P
+  rotate: false
+  xy: 254, 293
+  size: 250, 699
+  orig: 252, 701
+  offset: 1, 1
+  index: -1
+lanter R
+  rotate: false
+  xy: 506, 293
+  size: 250, 699
+  orig: 252, 701
+  offset: 1, 1
+  index: -1
+lion B
+  rotate: false
+  xy: 2, 24
+  size: 234, 267
+  orig: 236, 269
+  offset: 1, 1
+  index: -1
+lion P
+  rotate: false
+  xy: 758, 725
+  size: 234, 267
+  orig: 236, 269
+  offset: 1, 1
+  index: -1
+lion R
+  rotate: false
+  xy: 238, 24
+  size: 234, 267
+  orig: 236, 269
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,332 @@
+{
+  "script": [
+    "js/SlotAladdin/Global.js",
+    "js/SlotAladdin/resource.js",
+    "js/SlotAladdin/SlotAladdinSoundPlayer.js",
+    "js/SlotAladdin/Network/SlotClient.js",
+    "js/SlotAladdin/FloatButton/SlotAladdinFloatButton.js",
+    "js/SlotAladdin/FloatButton/SlotAladdinMinigamePopup.js",
+    "js/SlotAladdin/Controller/BaseController.js",
+    "js/SlotAladdin/Controller/HistoryController.js",
+    "js/SlotAladdin/Controller/RankingController.js",
+    "js/SlotAladdin/Controller/SlotController.js",
+    "js/SlotAladdin/Controller/BonusController.js",
+    "js/SlotAladdin/Controller/X2Controller.js",
+    "js/SlotAladdin/Model/SlotObject.js",
+    "js/SlotAladdin/Model/MainButton.js",
+    "js/SlotAladdin/Model/SlotFrame.js",
+    "js/SlotAladdin/Model/WiredSlotFrame.js",
+    "js/SlotAladdin/Model/GoldenTime.js",
+    "js/SlotAladdin/Model/BonusObject.js",
+    "js/SlotAladdin/Model/SettingItem.js",
+    "js/SlotAladdin/Model/FreeSpinNode.js",
+    "js/SlotAladdin/Model/Layer/LoadingLayer.js",
+    "js/SlotAladdin/Model/Popup/IPopup.js",
+    "js/SlotAladdin/Model/Popup/X2Popup.js",
+    "js/SlotAladdin/Model/Dialog/IDialog.js",
+    "js/SlotAladdin/Model/Dialog/PagedDialog.js",
+    "js/SlotAladdin/Model/Dialog/RewardDialog.js",
+    "js/SlotAladdin/Model/Dialog/HistoryDialog.js",
+    "js/SlotAladdin/Model/Dialog/CompleteBonusDialog.js",
+    "js/SlotAladdin/Model/Dialog/CompleteFreeSpinDialog.js",
+    "js/SlotAladdin/Model/Dialog/RankingDialog.js",
+    "js/SlotAladdin/Model/Dialog/BonusDialog.js",
+    "js/SlotAladdin/Model/Dialog/RecvFreeSpinDialog.js",
+    "js/SlotAladdin/Model/Dialog/BonusPrepareDialog.js",
+    "js/SlotAladdin/Model/Dialog/ErrorDialog.js",
+    "js/SlotAladdin/Game/BaseScene.js",
+    "js/SlotAladdin/Game/SlotScene.js",
+    "js/SlotAladdin/Game/BonusScene.js",
+    "js/SlotAladdin/Game/LoadingScene.js"
+  ],
+  "texture": [
+    {
+      "img": "res/SlotAladdin/bonus_bg.png"
+    },
+    {
+      "img": "res/SlotAladdin/bonus_natra_nolotus.png"
+    },
+    {
+      "img": "res/SlotAladdin/loading.png"
+    },
+    {
+      "img": "res/SlotAladdin/main_background.png"
+    },
+    {
+      "img": "res/SlotAladdin/bg_frame.png"
+    },
+    {
+      "img": "res/SlotAladdin/bg_popup.png"
+    },
+    {
+      "img": "res/SlotAladdin/paytable/paytable_1.png"
+    },
+    {
+      "img": "res/SlotAladdin/paytable/paytable_2.png"
+    },
+    {
+      "img": "res/SlotAladdin/paytable/paytable_3.png"
+    },
+    {
+      "img": "res/SlotAladdin/paytable/paytable_4.png"
+    },
+    {
+      "img": "res/SlotAladdin/paytable/paytable_5.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_1.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_2.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_3.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_4.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_5.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_6.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_7.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_8.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_9.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_10.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_11.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_12.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_13.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_14.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_15.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_16.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_17.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_18.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_19.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_20.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_21.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_22.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_23.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_24.png"
+    },
+    {
+      "img": "res/SlotAladdin/payline/Payline_25.png"
+    },
+    {
+      "img": "res/SlotAladdin/SlotObject.png",
+      "plist": "res/SlotAladdin/SlotObject.plist"
+    },
+    {
+      "img": "res/SlotAladdin/MainGame.png",
+      "plist": "res/SlotAladdin/MainGame.plist"
+    },
+    {
+      "img": "res/SlotAladdin/BonusGame.png",
+      "plist": "res/SlotAladdin/BonusGame.plist"
+    },
+    {
+      "img": "res/SlotAladdin/Dialog.png",
+      "plist": "res/SlotAladdin/Dialog.plist"
+    },
+    {
+      "img": "res/SlotAladdin/Popup.png",
+      "plist": "res/SlotAladdin/Popup.plist"
+    },
+    {
+      "img": "res/SlotAladdin/FastRoll.png",
+      "plist": "res/SlotAladdin/FastRoll.plist"
+    },
+    {
+      "img": "res/SlotAladdin/agent.png"
+    },
+    {
+      "img": "res/SlotAladdin/pillow.png"
+    },
+    {
+      "img": "res/SlotAladdin/buc.png"
+    },
+    {
+      "img": "res/SlotAladdin/lamp.png"
+    }
+  ],
+  "fonts": [
+    {
+      "img": "res/SlotAladdin/font/total_reward_font.png",
+      "fnt": "res/SlotAladdin/font/total_reward_font.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/creditfont.png",
+      "fnt": "res/SlotAladdin/font/creditfont.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/freespinfont.png",
+      "fnt": "res/SlotAladdin/font/freespinfont.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/happyhourfont.png",
+      "fnt": "res/SlotAladdin/font/happyhourfont.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/resultfont.png",
+      "fnt": "res/SlotAladdin/font/resultfont.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/reward_jackpot_font.png",
+      "fnt": "res/SlotAladdin/font/reward_jackpot_font.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/jackpotnormalfont.png",
+      "fnt": "res/SlotAladdin/font/jackpotnormalfont.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/reward_normal_font.png",
+      "fnt": "res/SlotAladdin/font/reward_normal_font.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/popupfont.png",
+      "fnt": "res/SlotAladdin/font/popupfont.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/bonus_reward.png",
+      "fnt": "res/SlotAladdin/font/bonus_reward.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/bonus_multiplier.png",
+      "fnt": "res/SlotAladdin/font/bonus_multiplier.fnt"
+    },
+    {
+      "img": "res/SlotAladdin/font/bonus_result.png",
+      "fnt": "res/SlotAladdin/font/bonus_result.fnt"
+    }
+  ],
+  "spine": {
+    "slotmhv_wukong_ingame": {
+      "json": "res/SlotAladdin/spine/wukong.json",
+      "atlas": "res/SlotAladdin/spine/wukong.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/wukong.png"
+      ]
+    },
+    "slotmhv_effect_sym_fire": {
+      "json": "res/SlotAladdin/spine/effect_sym_fire.json",
+      "atlas": "res/SlotAladdin/spine/effect_sym_fire.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/effect_sym_fire.png"
+      ]
+    },
+    "slotmhv_effect_lotus": {
+      "json": "res/SlotAladdin/spine/effect_lotus.json",
+      "atlas": "res/SlotAladdin/spine/effect_lotus.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/effect_lotus.png"
+      ]
+    },
+    "slotmhv_effect_book": {
+      "json": "res/SlotAladdin/spine/effect_book.json",
+      "atlas": "res/SlotAladdin/spine/effect_book.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/effect_book.png"
+      ]
+    },
+    "slotmhv_effect_spin": {
+      "json": "res/SlotAladdin/spine/effect_spin.json",
+      "atlas": "res/SlotAladdin/spine/effect_spin.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/effect_spin.png"
+      ]
+    },
+    "slotmhv_effect_peach": {
+      "json": "res/SlotAladdin/spine/effect_peach.json",
+      "atlas": "res/SlotAladdin/spine/effect_peach.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/effect_peach.png"
+      ]
+    },
+    "slotmhv_win_big": {
+      "json": "res/SlotAladdin/spine/win_big.json",
+      "atlas": "res/SlotAladdin/spine/win_big.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/win_big.png"
+      ]
+    },
+    "slotmhv_win_bonus": {
+      "json": "res/SlotAladdin/spine/win_bonus.json",
+      "atlas": "res/SlotAladdin/spine/win_bonus.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/win_bonus.png"
+      ]
+    },
+    "slotmhv_win_freespin": {
+      "json": "res/SlotAladdin/spine/win_freespin.json",
+      "atlas": "res/SlotAladdin/spine/win_freespin.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/win_freespin.png"
+      ]
+    },
+    "slotmhv_win_jackpot": {
+      "json": "res/SlotAladdin/spine/win_jackpot.json",
+      "atlas": "res/SlotAladdin/spine/win_jackpot.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/win_jackpot.png"
+      ]
+    },
+    "slotmhv_win_rich": {
+      "json": "res/SlotAladdin/spine/win_rich.json",
+      "atlas": "res/SlotAladdin/spine/win_rich.atlas",
+      "texture": [
+        "res/SlotAladdin/spine/win_rich.png"
+      ]
+    }
+  },
+  "raw": [
+  ],
+  "sound": [
+    "res/SlotAladdin/sound/bonus.mp3",
+    "res/SlotAladdin/sound/freespin_xuathien.mp3",
+    "res/SlotAladdin/sound/jackpot_demdong.mp3",
+    "res/SlotAladdin/sound/theme_hauvuong.mp3",
+    "res/SlotAladdin/sound/spin_button_press.mp3",
+    "res/SlotAladdin/sound/quayfreespin.mp3",
+    "res/SlotAladdin/sound/wild_xuathien.mp3",
+    "res/SlotAladdin/sound/spin.mp3",
+    "res/SlotAladdin/sound/win_large.mp3",
+    "res/SlotAladdin/sound/win_medium.mp3",
+    "res/SlotAladdin/sound/win_small.mp3"
+  ]
+}

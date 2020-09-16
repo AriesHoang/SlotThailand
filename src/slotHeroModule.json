@@ -1,0 +1,323 @@
+{
+  "script": [
+    "js/SlotHero/Global.js",
+    "js/SlotHero/resource.js",
+    "js/SlotHero/SlotHeroSoundPlayer.js",
+    "js/SlotHero/Network/SlotClient.js",
+    "js/SlotHero/FloatButton/SlotHeroFloatButton.js",
+    "js/SlotHero/FloatButton/SlotHeroMinigamePopup.js",
+    "js/SlotHero/Controller/BaseController.js",
+    "js/SlotHero/Controller/HistoryController.js",
+    "js/SlotHero/Controller/RankingController.js",
+    "js/SlotHero/Controller/SlotController.js",
+    "js/SlotHero/Controller/BonusController.js",
+    "js/SlotHero/Controller/X2Controller.js",
+    "js/SlotHero/Model/SlotObject.js",
+    "js/SlotHero/Model/MainButton.js",
+    "js/SlotHero/Model/SlotFrame.js",
+    "js/SlotHero/Model/WiredSlotFrame.js",
+    "js/SlotHero/Model/GoldenTime.js",
+    "js/SlotHero/Model/BonusObject.js",
+    "js/SlotHero/Model/SettingItem.js",
+    "js/SlotHero/Model/FreeSpinNode.js",
+    "js/SlotHero/Model/Layer/LoadingLayer.js",
+    "js/SlotHero/Model/Popup/IPopup.js",
+    "js/SlotHero/Model/Popup/X2Popup.js",
+    "js/SlotHero/Model/Dialog/IDialog.js",
+    "js/SlotHero/Model/Dialog/PagedDialog.js",
+    "js/SlotHero/Model/Dialog/RewardDialog.js",
+    "js/SlotHero/Model/Dialog/HistoryDialog.js",
+    "js/SlotHero/Model/Dialog/CompleteBonusDialog.js",
+    "js/SlotHero/Model/Dialog/CompleteFreeSpinDialog.js",
+    "js/SlotHero/Model/Dialog/RankingDialog.js",
+    "js/SlotHero/Model/Dialog/BonusDialog.js",
+    "js/SlotHero/Model/Dialog/RecvFreeSpinDialog.js",
+    "js/SlotHero/Model/Dialog/BonusPrepareDialog.js",
+    "js/SlotHero/Model/Dialog/ErrorDialog.js",
+    "js/SlotHero/Game/BaseScene.js",
+    "js/SlotHero/Game/SlotScene.js",
+    "js/SlotHero/Game/BonusScene.js",
+    "js/SlotHero/Game/LoadingScene.js"
+  ],
+  "texture": [
+    {
+      "img": "res/SlotHero/bonus_bg.png"
+    },
+    {
+      "img": "res/SlotHero/bonus_natra_nolotus.png"
+    },
+    {
+      "img": "res/SlotHero/loading.png"
+    },
+    {
+      "img": "res/SlotHero/main_background.png"
+    },
+    {
+      "img": "res/SlotHero/bg_frame.png"
+    },
+    {
+      "img": "res/SlotHero/bg_popup.png"
+    },
+    {
+      "img": "res/SlotHero/paytable/paytable_1.png"
+    },
+    {
+      "img": "res/SlotHero/paytable/paytable_2.png"
+    },
+    {
+      "img": "res/SlotHero/paytable/paytable_3.png"
+    },
+    {
+      "img": "res/SlotHero/paytable/paytable_4.png"
+    },
+    {
+      "img": "res/SlotHero/paytable/paytable_5.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_1.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_2.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_3.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_4.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_5.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_6.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_7.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_8.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_9.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_10.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_11.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_12.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_13.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_14.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_15.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_16.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_17.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_18.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_19.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_20.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_21.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_22.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_23.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_24.png"
+    },
+    {
+      "img": "res/SlotHero/payline/Payline_25.png"
+    },
+    {
+      "img": "res/SlotHero/SlotObject.png",
+      "plist": "res/SlotHero/SlotObject.plist"
+    },
+    {
+      "img": "res/SlotHero/MainGame.png",
+      "plist": "res/SlotHero/MainGame.plist"
+    },
+    {
+      "img": "res/SlotHero/BonusGame.png",
+      "plist": "res/SlotHero/BonusGame.plist"
+    },
+    {
+      "img": "res/SlotHero/Dialog.png",
+      "plist": "res/SlotHero/Dialog.plist"
+    },
+    {
+      "img": "res/SlotHero/Popup.png",
+      "plist": "res/SlotHero/Popup.plist"
+    },
+    {
+      "img": "res/SlotHero/FastRoll.png",
+      "plist": "res/SlotHero/FastRoll.plist"
+    },
+    {
+      "img": "res/SlotHero/agent.png"
+    }
+  ],
+  "fonts": [
+    {
+      "img": "res/SlotHero/font/total_reward_font.png",
+      "fnt": "res/SlotHero/font/total_reward_font.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/creditfont.png",
+      "fnt": "res/SlotHero/font/creditfont.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/freespinfont.png",
+      "fnt": "res/SlotHero/font/freespinfont.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/happyhourfont.png",
+      "fnt": "res/SlotHero/font/happyhourfont.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/resultfont.png",
+      "fnt": "res/SlotHero/font/resultfont.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/reward_jackpot_font.png",
+      "fnt": "res/SlotHero/font/reward_jackpot_font.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/jackpotnormalfont.png",
+      "fnt": "res/SlotHero/font/jackpotnormalfont.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/reward_normal_font.png",
+      "fnt": "res/SlotHero/font/reward_normal_font.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/popupfont.png",
+      "fnt": "res/SlotHero/font/popupfont.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/bonus_reward.png",
+      "fnt": "res/SlotHero/font/bonus_reward.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/bonus_multiplier.png",
+      "fnt": "res/SlotHero/font/bonus_multiplier.fnt"
+    },
+    {
+      "img": "res/SlotHero/font/bonus_result.png",
+      "fnt": "res/SlotHero/font/bonus_result.fnt"
+    }
+  ],
+  "spine": {
+    "slotmhv_wukong_ingame": {
+      "json": "res/SlotHero/spine/wukong.json",
+      "atlas": "res/SlotHero/spine/wukong.atlas",
+      "texture": [
+        "res/SlotHero/spine/wukong.png"
+      ]
+    },
+    "slotmhv_effect_sym_fire": {
+      "json": "res/SlotHero/spine/effect_sym_fire.json",
+      "atlas": "res/SlotHero/spine/effect_sym_fire.atlas",
+      "texture": [
+        "res/SlotHero/spine/effect_sym_fire.png"
+      ]
+    },
+    "slotmhv_effect_lotus": {
+      "json": "res/SlotHero/spine/effect_lotus.json",
+      "atlas": "res/SlotHero/spine/effect_lotus.atlas",
+      "texture": [
+        "res/SlotHero/spine/effect_lotus.png"
+      ]
+    },
+    "slotmhv_effect_book": {
+      "json": "res/SlotHero/spine/effect_book.json",
+      "atlas": "res/SlotHero/spine/effect_book.atlas",
+      "texture": [
+        "res/SlotHero/spine/effect_book.png"
+      ]
+    },
+    "slotmhv_effect_spin": {
+      "json": "res/SlotHero/spine/effect_spin.json",
+      "atlas": "res/SlotHero/spine/effect_spin.atlas",
+      "texture": [
+        "res/SlotHero/spine/effect_spin.png"
+      ]
+    },
+    "slotmhv_effect_peach": {
+      "json": "res/SlotHero/spine/effect_peach.json",
+      "atlas": "res/SlotHero/spine/effect_peach.atlas",
+      "texture": [
+        "res/SlotHero/spine/effect_peach.png"
+      ]
+    },
+    "slotmhv_win_big": {
+      "json": "res/SlotHero/spine/win_big.json",
+      "atlas": "res/SlotHero/spine/win_big.atlas",
+      "texture": [
+        "res/SlotHero/spine/win_big.png"
+      ]
+    },
+    "slotmhv_win_bonus": {
+      "json": "res/SlotHero/spine/win_bonus.json",
+      "atlas": "res/SlotHero/spine/win_bonus.atlas",
+      "texture": [
+        "res/SlotHero/spine/win_bonus.png"
+      ]
+    },
+    "slotmhv_win_freespin": {
+      "json": "res/SlotHero/spine/win_freespin.json",
+      "atlas": "res/SlotHero/spine/win_freespin.atlas",
+      "texture": [
+        "res/SlotHero/spine/win_freespin.png"
+      ]
+    },
+    "slotmhv_win_jackpot": {
+      "json": "res/SlotHero/spine/win_jackpot.json",
+      "atlas": "res/SlotHero/spine/win_jackpot.atlas",
+      "texture": [
+        "res/SlotHero/spine/win_jackpot.png"
+      ]
+    },
+    "slotmhv_win_rich": {
+      "json": "res/SlotHero/spine/win_rich.json",
+      "atlas": "res/SlotHero/spine/win_rich.atlas",
+      "texture": [
+        "res/SlotHero/spine/win_rich.png"
+      ]
+    }
+  },
+  "raw": [
+  ],
+  "sound": [
+    "res/SlotHero/sound/bonus.mp3",
+    "res/SlotHero/sound/freespin_xuathien.mp3",
+    "res/SlotHero/sound/jackpot_demdong.mp3",
+    "res/SlotHero/sound/theme_hauvuong.mp3",
+    "res/SlotHero/sound/spin_button_press.mp3",
+    "res/SlotHero/sound/quayfreespin.mp3",
+    "res/SlotHero/sound/wild_xuathien.mp3",
+    "res/SlotHero/sound/spin.mp3",
+    "res/SlotHero/sound/win_large.mp3",
+    "res/SlotHero/sound/win_medium.mp3",
+    "res/SlotHero/sound/win_small.mp3"
+  ]
+}

@@ -1,0 +1,96 @@
+win_bonus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 447
+  size: 573, 545
+  orig: 573, 545
+  offset: 0, 0
+  index: -1
+Layer 15 copy 13
+  rotate: false
+  xy: 889, 934
+  size: 66, 58
+  orig: 68, 58
+  offset: 1, 0
+  index: -1
+Layer 15 copy 34
+  rotate: false
+  xy: 889, 934
+  size: 66, 58
+  orig: 68, 58
+  offset: 1, 0
+  index: -1
+Layer 15 copy 35
+  rotate: false
+  xy: 889, 934
+  size: 66, 58
+  orig: 68, 58
+  offset: 1, 0
+  index: -1
+Layer 15 copy 37
+  rotate: false
+  xy: 577, 921
+  size: 71, 71
+  orig: 73, 73
+  offset: 1, 1
+  index: -1
+Layer 15 copy 8
+  rotate: false
+  xy: 2, 2
+  size: 110, 97
+  orig: 112, 97
+  offset: 1, 0
+  index: -1
+Layer 15 copy 10
+  rotate: false
+  xy: 2, 2
+  size: 110, 97
+  orig: 112, 97
+  offset: 1, 0
+  index: -1
+Layer 15 copy 11
+  rotate: false
+  xy: 2, 2
+  size: 110, 97
+  orig: 112, 97
+  offset: 1, 0
+  index: -1
+Layer 15 copy 12
+  rotate: false
+  xy: 2, 2
+  size: 110, 97
+  orig: 112, 97
+  offset: 1, 0
+  index: -1
+Layer 15 copy 14
+  rotate: false
+  xy: 2, 2
+  size: 110, 97
+  orig: 112, 97
+  offset: 1, 0
+  index: -1
+Layer 15 copy 9
+  rotate: false
+  xy: 2, 2
+  size: 110, 97
+  orig: 112, 97
+  offset: 1, 0
+  index: -1
+bonus game
+  rotate: true
+  xy: 696, 156
+  size: 836, 191
+  orig: 836, 191
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 2, 101
+  size: 692, 344
+  orig: 692, 344
+  offset: 0, 0
+  index: -1

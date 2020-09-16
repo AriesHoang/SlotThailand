@@ -1,0 +1,326 @@
+{
+  "script": [
+    "js/SlotWomenAgent/Global.js",
+    "js/SlotWomenAgent/resource.js",
+    "js/SlotWomenAgent/SlotWomenAgentSoundPlayer.js",
+    "js/SlotWomenAgent/Network/SlotClient.js",
+    "js/SlotWomenAgent/FloatButton/SlotWomenAgentFloatButton.js",
+    "js/SlotWomenAgent/FloatButton/SlotWomenAgentMinigamePopup.js",
+    "js/SlotWomenAgent/Controller/BaseController.js",
+    "js/SlotWomenAgent/Controller/HistoryController.js",
+    "js/SlotWomenAgent/Controller/RankingController.js",
+    "js/SlotWomenAgent/Controller/SlotController.js",
+    "js/SlotWomenAgent/Controller/BonusController.js",
+    "js/SlotWomenAgent/Controller/X2Controller.js",
+    "js/SlotWomenAgent/Model/SlotObject.js",
+    "js/SlotWomenAgent/Model/MainButton.js",
+    "js/SlotWomenAgent/Model/SlotFrame.js",
+    "js/SlotWomenAgent/Model/WiredSlotFrame.js",
+    "js/SlotWomenAgent/Model/GoldenTime.js",
+    "js/SlotWomenAgent/Model/BonusObject.js",
+    "js/SlotWomenAgent/Model/SettingItem.js",
+    "js/SlotWomenAgent/Model/FreeSpinNode.js",
+    "js/SlotWomenAgent/Model/Layer/LoadingLayer.js",
+    "js/SlotWomenAgent/Model/Popup/IPopup.js",
+    "js/SlotWomenAgent/Model/Popup/X2Popup.js",
+    "js/SlotWomenAgent/Model/Dialog/IDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/PagedDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/RewardDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/HistoryDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/CompleteBonusDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/CompleteFreeSpinDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/RankingDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/BonusDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/RecvFreeSpinDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/BonusPrepareDialog.js",
+    "js/SlotWomenAgent/Model/Dialog/ErrorDialog.js",
+    "js/SlotWomenAgent/Game/BaseScene.js",
+    "js/SlotWomenAgent/Game/SlotScene.js",
+    "js/SlotWomenAgent/Game/BonusScene.js",
+    "js/SlotWomenAgent/Game/LoadingScene.js"
+  ],
+  "texture": [
+    {
+      "img": "res/SlotWomenAgent/bonus_bg.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/bonus_natra_nolotus.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/loading.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/main_background.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/slotwomenagent_frame.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/slotwomenagent_bg_popup.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/paytable/paytable_1.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/paytable/paytable_2.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/paytable/paytable_3.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/paytable/paytable_4.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/paytable/paytable_5.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_1.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_2.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_3.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_4.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_5.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_6.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_7.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_8.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_9.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_10.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_11.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_12.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_13.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_14.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_15.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_16.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_17.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_18.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_19.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_20.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_21.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_22.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_23.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_24.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/payline/Payline_25.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/SlotObject.png",
+      "plist": "res/SlotWomenAgent/SlotObject.plist"
+    },
+    {
+      "img": "res/SlotWomenAgent/MainGame.png",
+      "plist": "res/SlotWomenAgent/MainGame.plist"
+    },
+    {
+      "img": "res/SlotWomenAgent/BonusGame.png",
+      "plist": "res/SlotWomenAgent/BonusGame.plist"
+    },
+    {
+      "img": "res/SlotWomenAgent/Dialog.png",
+      "plist": "res/SlotWomenAgent/Dialog.plist"
+    },
+    {
+      "img": "res/SlotWomenAgent/Popup.png",
+      "plist": "res/SlotWomenAgent/Popup.plist"
+    },
+    {
+      "img": "res/SlotWomenAgent/FastRoll.png",
+      "plist": "res/SlotWomenAgent/FastRoll.plist"
+    },
+    {
+      "img": "res/SlotWomenAgent/agent.png"
+    },
+    {
+      "img": "res/SlotWomenAgent/lancan.png"
+    }
+  ],
+  "fonts": [
+    {
+      "img": "res/SlotWomenAgent/font/total_reward_font.png",
+      "fnt": "res/SlotWomenAgent/font/total_reward_font.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/creditfont.png",
+      "fnt": "res/SlotWomenAgent/font/creditfont.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/freespinfont.png",
+      "fnt": "res/SlotWomenAgent/font/freespinfont.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/happyhourfont.png",
+      "fnt": "res/SlotWomenAgent/font/happyhourfont.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/resultfont.png",
+      "fnt": "res/SlotWomenAgent/font/resultfont.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/reward_jackpot_font.png",
+      "fnt": "res/SlotWomenAgent/font/reward_jackpot_font.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/jackpotnormalfont.png",
+      "fnt": "res/SlotWomenAgent/font/jackpotnormalfont.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/reward_normal_font.png",
+      "fnt": "res/SlotWomenAgent/font/reward_normal_font.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/popupfont.png",
+      "fnt": "res/SlotWomenAgent/font/popupfont.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/bonus_reward.png",
+      "fnt": "res/SlotWomenAgent/font/bonus_reward.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/bonus_multiplier.png",
+      "fnt": "res/SlotWomenAgent/font/bonus_multiplier.fnt"
+    },
+    {
+      "img": "res/SlotWomenAgent/font/bonus_result.png",
+      "fnt": "res/SlotWomenAgent/font/bonus_result.fnt"
+    }
+  ],
+  "spine": {
+    "slotmhv_wukong_ingame": {
+      "json": "res/SlotWomenAgent/spine/wukong.json",
+      "atlas": "res/SlotWomenAgent/spine/wukong.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/wukong.png"
+      ]
+    },
+    "slotmhv_effect_sym_fire": {
+      "json": "res/SlotWomenAgent/spine/effect_sym_fire.json",
+      "atlas": "res/SlotWomenAgent/spine/effect_sym_fire.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/effect_sym_fire.png"
+      ]
+    },
+    "slotmhv_effect_lotus": {
+      "json": "res/SlotWomenAgent/spine/effect_lotus.json",
+      "atlas": "res/SlotWomenAgent/spine/effect_lotus.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/effect_lotus.png"
+      ]
+    },
+    "slotmhv_effect_book": {
+      "json": "res/SlotWomenAgent/spine/effect_book.json",
+      "atlas": "res/SlotWomenAgent/spine/effect_book.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/effect_book.png"
+      ]
+    },
+    "slotmhv_effect_spin": {
+      "json": "res/SlotWomenAgent/spine/effect_spin.json",
+      "atlas": "res/SlotWomenAgent/spine/effect_spin.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/effect_spin.png"
+      ]
+    },
+    "slotmhv_effect_peach": {
+      "json": "res/SlotWomenAgent/spine/effect_peach.json",
+      "atlas": "res/SlotWomenAgent/spine/effect_peach.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/effect_peach.png"
+      ]
+    },
+    "slotmhv_win_big": {
+      "json": "res/SlotWomenAgent/spine/win_big.json",
+      "atlas": "res/SlotWomenAgent/spine/win_big.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/win_big.png"
+      ]
+    },
+    "slotmhv_win_bonus": {
+      "json": "res/SlotWomenAgent/spine/win_bonus.json",
+      "atlas": "res/SlotWomenAgent/spine/win_bonus.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/win_bonus.png"
+      ]
+    },
+    "slotmhv_win_freespin": {
+      "json": "res/SlotWomenAgent/spine/win_freespin.json",
+      "atlas": "res/SlotWomenAgent/spine/win_freespin.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/win_freespin.png"
+      ]
+    },
+    "slotmhv_win_jackpot": {
+      "json": "res/SlotWomenAgent/spine/win_jackpot.json",
+      "atlas": "res/SlotWomenAgent/spine/win_jackpot.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/win_jackpot.png"
+      ]
+    },
+    "slotmhv_win_rich": {
+      "json": "res/SlotWomenAgent/spine/win_rich.json",
+      "atlas": "res/SlotWomenAgent/spine/win_rich.atlas",
+      "texture": [
+        "res/SlotWomenAgent/spine/win_rich.png"
+      ]
+    }
+  },
+  "raw": [
+  ],
+  "sound": [
+    "res/SlotWomenAgent/sound/bonus.mp3",
+    "res/SlotWomenAgent/sound/freespin_xuathien.mp3",
+    "res/SlotWomenAgent/sound/jackpot_demdong.mp3",
+    "res/SlotWomenAgent/sound/theme_hauvuong.mp3",
+    "res/SlotWomenAgent/sound/spin_button_press.mp3",
+    "res/SlotWomenAgent/sound/quayfreespin.mp3",
+    "res/SlotWomenAgent/sound/wild_xuathien.mp3",
+    "res/SlotWomenAgent/sound/spin.mp3",
+    "res/SlotWomenAgent/sound/win_large.mp3",
+    "res/SlotWomenAgent/sound/win_medium.mp3",
+    "res/SlotWomenAgent/sound/win_small.mp3"
+  ]
+}

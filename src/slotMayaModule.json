@@ -1,0 +1,292 @@
+{
+  "script": [
+    "js/SlotMaya/resource.js",
+    "js/SlotMaya/Global.js",
+    "js/SlotMaya/SlotMayaSoundPlayer.js",
+    "js/SlotMaya/Network/SFSConstant.js",
+    "js/SlotMaya/Network/SFSSocket.js",
+    "js/SlotMaya/Network/SlotClient.js",
+    "js/SlotMaya/FloatButton/SlotMayaFloatButton.js",
+    "js/SlotMaya/Controller/BaseController.js",
+    "js/SlotMaya/Controller/HistoryController.js",
+    "js/SlotMaya/Controller/RankingController.js",
+    "js/SlotMaya/Controller/SlotController.js",
+    "js/SlotMaya/Controller/BonusController.js",
+    "js/SlotMaya/Model/SlotObject.js",
+    "js/SlotMaya/Model/SelectLineObject.js",
+    "js/SlotMaya/Model/SlotFrame.js",
+    "js/SlotMaya/Model/WiredSlotFrame.js",
+    "js/SlotMaya/Model/SettingItem.js",
+    "js/SlotMaya/Model/FreeSpinNode.js",
+    "js/SlotMaya/Model/Layer/LoadingLayer.js",
+    "js/SlotMaya/Model/Dialog/IDialog.js",
+    "js/SlotMaya/Model/Dialog/RewardDialog.js",
+    "js/SlotMaya/Model/Dialog/CompleteFreeSpinDialog.js",
+    "js/SlotMaya/Model/Dialog/HistoryDialog.js",
+    "js/SlotMaya/Model/Dialog/CompleteBonusDialog.js",
+    "js/SlotMaya/Model/Dialog/RankingDialog.js",
+    "js/SlotMaya/Model/Dialog/PagedDialog.js",
+    "js/SlotMaya/Model/Dialog/BonusDialog.js",
+    "js/SlotMaya/Model/Dialog/RecvFreeSpinDialog.js",
+    "js/SlotMaya/Model/Dialog/SelectLineDialog.js",
+    "js/SlotMaya/Model/Dialog/BonusPrepareDialog.js",
+    "js/SlotMaya/Game/BaseScene.js",
+    "js/SlotMaya/Game/SlotScene.js",
+    "js/SlotMaya/Game/BonusScene.js",
+    "js/SlotMaya/Game/LoadingScene.js"
+  ],
+  "texture": [
+    {
+      "img": "res/SlotMaya/main_background.png"
+    },
+    {
+      "img": "res/SlotMaya/loading_maya_bg.png"
+    },
+    {
+      "img": "res/SlotMaya/loading.png"
+    },
+    {
+      "img": "res/SlotMaya/slotmaya_bonus_bg.png"
+    },
+    {
+      "img": "res/SlotMaya/slotmaya_dialog_bg.png"
+    },
+    {
+      "img": "res/SlotMaya/slotmaya_frame.png"
+    },
+    {
+      "img": "res/SlotMaya/SlotObjects.png",
+      "plist": "res/SlotMaya/SlotObjects.plist"
+    },
+    {
+      "img": "res/SlotMaya/coin.png",
+      "plist": "res/SlotMaya/coin.plist"
+    },
+    {
+      "img": "res/SlotMaya/MainGames.png",
+      "plist": "res/SlotMaya/MainGames.plist"
+    },
+    {
+      "img": "res/SlotMaya/BonusGame.png",
+      "plist": "res/SlotMaya/BonusGame.plist"
+    },
+    {
+      "img": "res/SlotMaya/Dialog.png",
+      "plist": "res/SlotMaya/Dialog.plist"
+    },
+    {
+      "img": "res/SlotMaya/coin_particle.png",
+      "plist": "res/SlotMaya/coin_particle.plist"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_0.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_1.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_2.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_3.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_4.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_5.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_6.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_7.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_8.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_9.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_10.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_11.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_12.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_13.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_14.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_15.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_16.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_17.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_18.png"
+    },
+    {
+      "img": "res/SlotMaya/payline/payline_19.png"
+    },
+    {
+      "img": "res/SlotMaya/slotmaya_reward_paytable.png"
+    },
+    {
+      "img": "res/SlotMaya/slotmaya_statude.png"
+    },
+    {
+      "img": "res/SlotMaya/slotmaya_statude_effect.png"
+    },
+    {
+      "img": "res/SlotMaya/slotmaya_statude_buc.png"
+    },
+    {
+      "img": "res/SlotMaya/slotmaya_bg_board_reward.png"
+    }
+  ],
+  "fonts": [
+    {
+      "img": "res/SlotMaya/font/arial_blue_stoke_number.png",
+      "fnt": "res/SlotMaya/font/arial_blue_stoke_number.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/arial_purple_stoke_number.png",
+      "fnt": "res/SlotMaya/font/arial_purple_stoke_number.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/win_font.png",
+      "fnt": "res/SlotMaya/font/win_font.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/session_font.png",
+      "fnt": "res/SlotMaya/font/session_font.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/gentona_white_30.png",
+      "fnt": "res/SlotMaya/font/gentona_white_30.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/jackpot_font.png",
+      "fnt": "res/SlotMaya/font/jackpot_font.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/roboto_bold_bonus.png",
+      "fnt": "res/SlotMaya/font/roboto_bold_bonus.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/roboto_bold_freespin_number_100.png",
+      "fnt": "res/SlotMaya/font/roboto_bold_freespin_number_100.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/roboto_bold_freespin_result_30.png",
+      "fnt": "res/SlotMaya/font/roboto_bold_freespin_result_30.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/roboto_bold_stroke_bonus.png",
+      "fnt": "res/SlotMaya/font/roboto_bold_stroke_bonus.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/roboto_medium_stoke_30.png",
+      "fnt": "res/SlotMaya/font/roboto_medium_stoke_30.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/roboto_medium_white_24.png",
+      "fnt": "res/SlotMaya/font/roboto_medium_white_24.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/roboto_medium_white_30.png",
+      "fnt": "res/SlotMaya/font/roboto_medium_white_30.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/uvn_dungdan_35.png",
+      "fnt": "res/SlotMaya/font/uvn_dungdan_35.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/uvn_dungdan_freespin_35.png",
+      "fnt": "res/SlotMaya/font/uvn_dungdan_freespin_35.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/uvn_thangvu_30.png",
+      "fnt": "res/SlotMaya/font/uvn_thangvu_30.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/UVN_DUNGDAN_GOLDENTIME.png",
+      "fnt": "res/SlotMaya/font/UVN_DUNGDAN_GOLDENTIME.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/SVN_GENICA_GOLDENTIME.png",
+      "fnt": "res/SlotMaya/font/SVN_GENICA_GOLDENTIME.fnt"
+    },
+    {
+      "img": "res/SlotMaya/font/total_reward_font.png",
+      "fnt": "res/SlotMaya/font/total_reward_font.fnt"
+    }
+  ],
+  "spine": {
+    "slotmaya_bonus_lion": {
+      "json": "res/SlotMaya/spine/bonus_lion.json",
+      "atlas": "res/SlotMaya/spine/bonus_lion.atlas",
+      "texture": [
+        "res/SlotMaya/spine/bonus_lion.png"
+      ]
+    },
+    "slotmaya_liondance_boy": {
+      "json": "res/SlotMaya/spine/liondance_boy.json",
+      "atlas": "res/SlotMaya/spine/liondance_boy.atlas",
+      "texture": [
+        "res/SlotMaya/spine/liondance_boy.png"
+      ]
+    },
+    "slotmaya_liondance_win": {
+      "json": "res/SlotMaya/spine/liondance_win.json",
+      "atlas": "res/SlotMaya/spine/liondance_win.atlas",
+      "texture": [
+        "res/SlotMaya/spine/liondance_win.png"
+      ]
+    },
+    "slotmaya_effect_symbol": {
+      "json": "res/SlotMaya/spine/spine_eff_symbol.json",
+      "atlas": "res/SlotMaya/spine/spine_eff_symbol.atlas",
+      "texture": [
+        "res/SlotMaya/spine/spine_eff_symbol.png"
+      ]
+    },
+    "slotmaya_effect_spine": {
+      "json": "res/SlotMaya/spine/spine.json",
+      "atlas": "res/SlotMaya/spine/spine.atlas",
+      "texture": [
+        "res/SlotMaya/spine/spine.png"
+      ]
+    },
+    "slotmaya_effect_touch": {
+      "json": "res/SlotMaya/spine/touch_bonus_lion.json",
+      "atlas": "res/SlotMaya/spine/touch_bonus_lion.atlas",
+      "texture": [
+        "res/SlotMaya/spine/touch_bonus_lion.png"
+      ]
+    }
+  },
+  "raw": [
+  ],
+  "sound": [
+    "res/SlotMaya/sound/bonus_1.mp3",
+    "res/SlotMaya/sound/button_click.mp3",
+    "res/SlotMaya/sound/bonus_end.mp3",
+    "res/SlotMaya/sound/bonus_2.mp3",
+    "res/SlotMaya/sound/quay_freespin.mp3",
+    "res/SlotMaya/sound/theme_khaihoi.mp3",
+    "res/SlotMaya/sound/spin.mp3",
+    "res/SlotMaya/sound/theme_khaihoi1.mp3",
+    "res/SlotMaya/sound/win_freespin.mp3"
+  ]
+}

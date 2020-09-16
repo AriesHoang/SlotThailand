@@ -1,0 +1,12 @@
+{
+  "module": {
+    "main": "src/mainModule.json",
+    "game": "src/gameModule.json",
+    "slotWomenAgent": "src/slotWomenAgentModule.json",
+    "slotThreeKingdom": "src/slotThreeKingdomModule.json",
+    "slotMaya": "src/slotMayaModule.json",
+    "slotZodiac": "src/slotZodiacModule.json",
+    "slotAladdin":"src/slotAladdinModule.json",
+    "slotHero":"src/slotHeroModule.json"
+  }
+}

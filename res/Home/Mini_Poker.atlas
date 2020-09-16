@@ -1,0 +1,111 @@
+
+Mini_Poker.png
+size: 644,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7 _1
+  rotate: true
+  xy: 593, 33
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+7_2
+  rotate: true
+  xy: 593, 33
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+7_3
+  rotate: true
+  xy: 593, 33
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+?_1
+  rotate: true
+  xy: 227, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+?_2
+  rotate: true
+  xy: 227, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+?_3
+  rotate: true
+  xy: 227, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 227, 23
+  size: 218, 209
+  orig: 218, 209
+  offset: 0, 0
+  index: -1
+Can gat_01
+  rotate: true
+  xy: 522, 109
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+Can gat_02
+  rotate: false
+  xy: 593, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Can gat_03
+  rotate: true
+  xy: 522, 74
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+Con_quay
+  rotate: false
+  xy: 438, 144
+  size: 204, 97
+  orig: 204, 97
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 2, 7
+  size: 234, 223
+  orig: 234, 223
+  offset: 0, 0
+  index: -1
+Mini
+  rotate: true
+  xy: 593, 65
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+Poker
+  rotate: false
+  xy: 438, 7
+  size: 153, 43
+  orig: 153, 43
+  offset: 0, 0
+  index: -1
+Vuong_mien
+  rotate: true
+  xy: 438, 52
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1

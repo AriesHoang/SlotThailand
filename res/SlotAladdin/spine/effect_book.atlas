@@ -1,0 +1,40 @@
+effect_book.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kyk
+  rotate: false
+  xy: 2, 2
+  size: 112, 140
+  orig: 114, 142
+  offset: 1, 1
+  index: -1
+Kyka
+  rotate: true
+  xy: 286, 413
+  size: 93, 120
+  orig: 95, 122
+  offset: 1, 1
+  index: -1
+Layer 26
+  rotate: false
+  xy: 2, 144
+  size: 271, 247
+  orig: 273, 249
+  offset: 1, 1
+  index: -1
+Layer 27 copy 2
+  rotate: false
+  xy: 286, 508
+  size: 159, 170
+  orig: 161, 172
+  offset: 1, 1
+  index: -1
+Layer 28
+  rotate: false
+  xy: 2, 393
+  size: 282, 285
+  orig: 284, 287
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,1106 @@
+{
+  "AGENCY_NAME": {
+    "en": "Agency",
+    "vi": "\nĐại lý\n"
+  },
+  "AGENCY_PHONE": {
+    "en": "Phone",
+    "vi": "SĐT"
+  },
+  "AGENCY_PLACE": {
+    "en": "Place",
+    "vi": "Địa Điểm"
+  },
+  "AGENCY_TITLE": {
+    "en": "\nAGENCY\n",
+    "vi": "\nĐẠI LÝ\n"
+  },
+  "AGENCY_USER": {
+    "en": "NickName",
+    "vi": "NickName"
+  },
+  "AND": {
+    "en": "And",
+    "vi": "Và"
+  },
+  "BANK": {
+    "en": "\nBANK\n",
+    "vi": "\nNgân hàng\n"
+  },
+  "BONUS_TURN": {
+    "en": "Turn Number: ",
+    "vi": "Số lượt quay: "
+  },
+  "BUY_NOW_ITEM": {
+    "en": "Buy Now",
+    "vi": "Mua ngay"
+  },
+  "CALL_HOTLINE": {
+    "en": "\nCall hotline\n",
+    "vi": "\nGọi điện thoại hỗ trợ\n"
+  },
+  "CAN_NOT_BUY_ITEM": {
+    "en": "You can not buy item",
+    "vi": "Không thể mua item"
+  },
+  "CAN_NOT_SPIN": {
+    "en": "Not enough free spin",
+    "vi": "Bạn không còn lượt quay"
+  },
+  "CAPTCHA_TYPE_HERE": {
+    "en": "Enter Code here..",
+    "vi": "Mã xác nhận..."
+  },
+  "CHAT_CREAT_GROUP": {
+    "en": "CREATE GROUP",
+    "vi": "TẠO NHÓM"
+  },
+  "CHAT_CREAT_GROUP_TITLE": {
+    "en": "Creat group friend",
+    "vi": "Tạo nhóm bạn"
+  },
+  "CHAT_DESCRIPTION": {
+    "en": "Chat room",
+    "vi": "Phòng trò chuyện"
+  },
+  "CHAT_GROUP_HINT": {
+    "en": "Enter group name...",
+    "vi": "Gõ tên của nhóm"
+  },
+  "CHAT_GROUP_TITLE": {
+    "en": "Notification from friend system",
+    "vi": "Thông báo từ hệ thống bạn bè"
+  },
+  "CHAT_HINT": {
+    "en": "Enter text here...",
+    "vi": "Gõ nội dung chat vào đây..."
+  },
+  "CHAT_SEACH_FRIEND_HINT": {
+    "en": "Enter friend name...",
+    "vi": "Gõ tên bạn bè cần tìm kiếm..."
+  },
+  "CHAT_SEND": {
+    "en": "SEND",
+    "vi": "GỬI TIN NHẮN"
+  },
+  "CHAT_TITLE": {
+    "en": "\nCHAT\n",
+    "vi": "\nTRÒ CHUYỆN\n"
+  },
+  "CODE_NUMBER_TYPE": {
+    "en": "Please enter card number...",
+    "vi": "Nhập mã thẻ..."
+  },
+  "CONFIM_CODE_TYPE": {
+    "en": "Enter confirm code...",
+    "vi": "Mã xác nhận..."
+  },
+  "CONNECTED": {
+    "en": "CONNECTED",
+    "vi": "ĐÃ KẾT NỐI"
+  },
+  "CONNECTING": {
+    "en": "CONNECTING",
+    "vi": "ĐANG KẾT NỐI"
+  },
+  "CONTACT_US": {
+    "en": "\nContact us by\n",
+    "vi": "\nLiên hệ với chúng tôi bằng những cách dưới đây\n"
+  },
+  "CURRENT_PASS_TYPE_HERE": {
+    "en": "Enter Code here..",
+    "vi": "Mật khẩu hiện tại..."
+  },
+  "CUSTOMER_SUPPORT_TITLE": {
+    "en": "\nCUSTOMER SUPPORT\n",
+    "vi": "\nCHĂM SÓC KHÁCH HÀNG\n"
+  },
+  "DATE": {
+    "en": "\nDate\n",
+    "vi": "\nNgày\n"
+  },
+  "DESCRIPTION": {
+    "en": "\nDESCRIPTION\n",
+    "vi": "\nMÔ TẢ\n"
+  },
+  "DISCONECT_NOTIFY": {
+    "en": "Please try again later!",
+    "vi": "Vui lòng thử lại lần sau!"
+  },
+  "DONATE": {
+    "en": "Donate",
+    "vi": "Tặng"
+  },
+  "DONE": {
+    "en": "DONE",
+    "vi": "XEM XONG"
+  },
+  "ERR_NONE_SELECT_PLACE": {
+    "en": "None select place",
+    "vi": "Bạn chưa chọn địa điểm"
+  },
+  "ERROR": {
+    "en": "An error occurred!",
+    "vi": "Đã xảy ra lỗi!"
+  },
+  "EVENT_TITLE": {
+    "en": "Event",
+    "vi": "Sự kiện"
+  },
+  "EXTERNALLOGIN_PROVIDER_INVALID": {
+    "en": "EXTERNALLOGIN_PROVIDER_INVALID",
+    "vi": "Lỗi đăng nhập. Vui lòng thử lại sau."
+  },
+  "EXTERNALLOGIN_REQUIRE_EMAIL_PERMISSION": {
+    "en": "EXTERNALLOGIN_REQUIRE_EMAIL_PERMISSION",
+    "vi": "Lỗi đăng nhập. Vui lòng thử lại sau."
+  },
+  "EXTERNALLOGIN_REQUIRE_USERNAME": {
+    "en": "EXTERNALLOGIN_REQUIRE_USERNAME",
+    "vi": "Lỗi đăng nhập. Vui lòng thử lại sau."
+  },
+  "EXTERNALLOGIN_TOKEN_INVALID": {
+    "en": "EXTERNALLOGIN_TOKEN_INVALID",
+    "vi": "Lỗi đăng nhập. Vui lòng thử lại sau."
+  },
+  "EXTERNALLOGIN_UNKOWN_ERROR": {
+    "en": "EXTERNALLOGIN_UNKOWN_ERROR",
+    "vi": "Lỗi đăng nhập. Vui lòng thử lại sau."
+  },
+  "EXTERNALLOGIN_USER_BANNED": {
+    "en": "EXTERNALLOGIN_USER_BANNED",
+    "vi": "Tài khoản của bạn đã bị khóa. Vui lòng thử lại sau."
+  },
+  "EXTERNALLOGIN_USERNAME_INVALID": {
+    "en": "EXTERNALLOGIN_USERNAME_INVALID",
+    "vi": "Tên tài khoản không hợp lệ."
+  },
+  "EXTERNALLOGIN_USERNAME_TAKEN": {
+    "en": "EXTERNALLOGIN_USERNAME_TAKEN",
+    "vi": "Tên tài khoản đã tồn tại."
+  },
+  "FACEBOOK": {
+    "en": "FACEBOOK",
+    "vi": "FACEBOOK"
+  },
+  "FACEBOOK_FANPAGE": {
+    "en": "\nFacebook Fanpage\n",
+    "vi": "\nFacebook Fanpage\n"
+  },
+  "FIND_CHANEL": {
+    "en": "Find chanel",
+    "vi": "Tìm kênh chat"
+  },
+  "FREE": {
+    "en": "Free",
+    "vi": "Miễn phí"
+  },
+  "FREE_SPIN": {
+    "en": " turn",
+    "vi": " lượt quay"
+  },
+  "FREE_TURN": {
+    "en": "FREE TURN",
+    "vi": "THÊM LƯỢT"
+  },
+  "FRIEND_BUTTON": {
+    "en": "\nFRIEND\n",
+    "vi": "\nBẠN BÈ\n"
+  },
+  "FRIEND_DESC": {
+    "en": "Friends List",
+    "vi": "Danh sách bạn bè"
+  },
+  "FRIEND_GUIDE": {
+    "en": "Click on line to select.",
+    "vi": "Nhấn vào dòng để chọn."
+  },
+  "FRIEND_MENU": {
+    "en": "Friend",
+    "vi": "Bạn bè"
+  },
+  "FRIEND_TITLE": {
+    "en": "FRIEND",
+    "vi": "BẠN BÈ"
+  },
+  "GAME_NAME": {
+    "en": "Game",
+    "vi": "Tên Game"
+  },
+  "GET_MORE_TURN": {
+    "en": "You get more turns",
+    "vi": "Bạn được thêm lượt quay"
+  },
+  "GIFTCODE_TITLE": {
+    "en": "GIFTCODE",
+    "vi": "GIFTCODE"
+  },
+  "GIFTCODE_TYPE_HERE": {
+    "en": "Enter GiftCode here...",
+    "vi": "Nhập GiftCode tại đây..."
+  },
+  "GOODLUCK_NEXT_TURN": {
+    "en": "Wish you luck next time!",
+    "vi": "Chúc bạn may mắn lần sau!"
+  },
+  "GUIDE_TITLE": {
+    "en": "\nGUIDE\n",
+    "vi": "\nHƯỚNG DẪN\n"
+  },
+  "HALL_OF_FAME_BUTTON_TITLE": {
+    "en": "\nHALL OF FAME\n",
+    "vi": "\nVINH DANH\n"
+  },
+  "HELP_LUCKY_TITLE": {
+    "en": "\nHELP\n",
+    "vi": "\nHƯỚNG DẪN\n"
+  },
+  "HISTORY_BUTTON_TITLE": {
+    "en": "\nHISTORY\n",
+    "vi": "\nLỊCH SỬ\n"
+  },
+  "HISTORY_LUCKY_TITLE": {
+    "en": "\nHISTORY\n",
+    "vi": "\nLỊCH SỬ QUAY\n"
+  },
+  "JACKPOT_TITLE": {
+    "en": "JACKPOT",
+    "vi": "QUỸ THƯỞNG"
+  },
+  "KING_COIN": {
+    "en": "King Coin",
+    "vi": "King Coin"
+  },
+  "KING_ID": {
+    "en": "KING ID",
+    "vi": "TÊN ĐĂNG NHẬP"
+  },
+  "LANGUAGE": {
+    "en": "Language: ",
+    "vi": "Ngôn ngữ: "
+  },
+  "LEFT_SPIN": {
+    "en": "\nLEFT SPIN\n",
+    "vi": "\nVÒNG TRÁI\n"
+  },
+  "LEVEL_SPORT": {
+    "en": "Level sport",
+    "vi": "Cấp độ"
+  },
+  "LOGIN_BUTTON": {
+    "en": "Đăng nhập",
+    "vi": "Login"
+  },
+  "LOGIN_ERROR": {
+    "en": "LOGIN_ERROR",
+    "vi": "Lỗi đăng nhập. Vui lòng thử lại sau."
+  },
+  "LOGIN_PASSWORD_WRONG": {
+    "en": "LOGIN_PASSWORD_WRONG",
+    "vi": "Sai tên tài khoản hoặc mật khẩu."
+  },
+  "LOGIN_USER_BANNED": {
+    "en": "LOGIN_USER_BANNED",
+    "vi": "Tài khoản bị lỗi."
+  },
+  "LOGIN_USER_NO_REGISTER": {
+    "en": "LOGIN_USER_NO_REGISTER",
+    "vi": "Tài khoản không tồn tại."
+  },
+  "LOGOUT": {
+    "en": "LOG OUT",
+    "vi": "ĐĂNG XUẤT"
+  },
+  "LOGOUT_MENU": {
+    "en": "Logout",
+    "vi": "Đăng xuất"
+  },
+  "MAIL_DEL": {
+    "en": "Deleted ",
+    "vi": "Đã xóa "
+  },
+  "MAIL_DESC": {
+    "en": "Mail manager.",
+    "vi": "Quản lý thư từ."
+  },
+  "MAIL_GUIDE": {
+    "en": "Click on line to select.",
+    "vi": "Nhấn vào dòng để chọn."
+  },
+  "MAIL_NOTIFY": {
+    "en": "Notify from mail system",
+    "vi": "Thông báo từ hệ thống thư tín"
+  },
+  "MAIL_SENT": {
+    "en": "Mail sent from {s}",
+    "vi": "Thư được gửi từ {s}"
+  },
+  "MAIL_TITLE": {
+    "en": "\nMAIL\n",
+    "vi": "\nHỘP THƯ\n"
+  },
+  "MOBILE_NUMBER_TYPE_HERE": {
+    "en": "Enter mobile number..",
+    "vi": "Nhập số điện thoại..."
+  },
+  "MONEY_SEND_TYPE": {
+    "en": "Please enter money...",
+    "vi": "Số tiền cần chuyển..."
+  },
+  "MUSIC": {
+    "en": "Music",
+    "vi": "Nhạc"
+  },
+  "NAME": {
+    "en": "Name",
+    "vi": "Tên"
+  },
+  "NEW_MOBILE_NUMBER_TYPE_HERE": {
+    "en": "Enter mobile number..",
+    "vi": "Số điện thoại mới..."
+  },
+  "NEW_PASS_TYPE_HERE": {
+    "en": "Enter Code here..",
+    "vi": "Mật khẩu mới..."
+  },
+  "NOT_CONNECT": {
+    "en": "NOT CONNECT",
+    "vi": "CHƯA KẾT NỐI"
+  },
+  "NOTE_1_GIFTCODE": {
+    "en": "\n* Mỗi gift code chỉ có thể nạp 1 lần\n",
+    "vi": "\n* Mỗi gift code chỉ có thể nạp 1 lần\n"
+  },
+  "NOTE_2_GIFTCODE": {
+    "en": "\n* Mỗi gift code chỉ có thể nạp 1 lần\n",
+    "vi": "\n* Mỗi gift code chỉ có thể nạp 1 lần\n"
+  },
+  "NOTHING": {
+    "en": "MISS",
+    "vi": "TRƯỢT"
+  },
+  "NOTIFICATION": {
+    "en": "Notification",
+    "vi": "Thông báo"
+  },
+  "OFF": {
+    "en": "OFF",
+    "vi": "TẮT"
+  },
+  "OK_BUTTON": {
+    "en": "OK",
+    "vi": "ĐỒNG Ý"
+  },
+  "OKE": {
+    "en": "OK",
+    "vi": "Đồng ý"
+  },
+  "ON": {
+    "en": "ON",
+    "vi": "BẬT"
+  },
+  "OTP_TYPE_HERE": {
+    "en": "Enter OTP Code..",
+    "vi": "Nhập mã OTP..."
+  },
+  "PASSWORD_TYPE": {
+    "en": "Enter password...",
+    "vi": "Nhập mật khẩu..."
+  },
+  "PERSONAL_INFO": {
+    "en": "\nPERSONAL INFOMATION\n",
+    "vi": "\nTHÔNG TIN CÁ NHÂN\n"
+  },
+  "PERSONAL_INFO_TITLE": {
+    "en": "\nPERSONAL INFORMATION\n",
+    "vi": "\nTHÔNG TIN CÁ NHÂN\n"
+  },
+  "PHONELOGIN_PHONE_NO_REGISTER": {
+    "en": "PHONELOGIN_PHONE_NO_REGISTER",
+    "vi": "Tài khoản không tồn tại."
+  },
+  "PHONELOGIN_PHONE_NO_VERIFY": {
+    "en": "PHONELOGIN_PHONE_NO_VERIFY",
+    "vi": "Số điện thoại chưa được xác thực."
+  },
+  "PHONELOGIN_USER_BANNED": {
+    "en": "PHONELOGIN_USER_BANNED",
+    "vi": "Lỗi đăng nhập. Vui lòng thử lại sau."
+  },
+  "PHONELOGIN_WRONG_OTP": {
+    "en": "PHONELOGIN_WRONG_OTP",
+    "vi": "Sai mã OTP"
+  },
+  "PLACE": {
+    "en": "\nPLACE\n",
+    "vi": "\nĐỊA ĐIỂM\n"
+  },
+  "PLACE_BUTTON": {
+    "en": "\nPLACE\n",
+    "vi": "\nĐỊA ĐIỂM\n"
+  },
+  "PLEASE_TYPE_KEY_WORD": {
+    "en": "Type key word...",
+    "vi": "Gõ nội dung tìm kiếm ..."
+  },
+  "POLICY_DESC": {
+    "en": "VIP Club policy of King Club.",
+    "vi": "Chính sách câu lạc bộ VIP của KingClub."
+  },
+  "POLICY_GUIDE": {
+    "en": "Click on line to select.",
+    "vi": "Nhấn vào dòng để chọn."
+  },
+  "POLICY_TITLE": {
+    "en": "\nPOLICY\n",
+    "vi": "\nCHÍNH SÁCH\n"
+  },
+  "PROFILE": {
+    "en": "\nPROFILE\n",
+    "vi": "\nHỒ SƠ\n"
+  },
+  "PROFILE_DESCRIPTION": {
+    "en": "Personal information of ",
+    "vi": "Thông tin cá nhân của "
+  },
+  "PROFILE_TITLE": {
+    "en": "\nPROFILE\n",
+    "vi": "\nHỒ SƠ\n"
+  },
+  "RE_NEW_PASS_TYPE_HERE": {
+    "en": "Enter Code here..",
+    "vi": "Nhập lại mật khẩu mới..."
+  },
+  "RE_PASSWORD_TYPE": {
+    "en": "Please re-enter password...",
+    "vi": "Nhập lại mật khẩu..."
+  },
+  "RE_SEND_TO_TYPE": {
+    "en": "Please re-enter account",
+    "vi": "Nhập lại tài khoản nhận..."
+  },
+  "RECEIVE_REWARD": {
+    "en": "RECEIVE REWARD",
+    "vi": "NHẬN THƯỞNG"
+  },
+  "RECHARGE_TITLE": {
+    "en": "\nRECHARGE\n",
+    "vi": "\nNẠP TIỀN\n"
+  },
+  "RECONNECT_BUTTON_TITLE": {
+    "en": "Reconnect",
+    "vi": "Reconnect"
+  },
+  "REGISTER": {
+    "en": "\nREGISTER\n",
+    "vi": "\nĐĂNG KÝ\n"
+  },
+  "REGISTER_ERROR": {
+    "en": "REGISTER_ERROR",
+    "vi": "Đăng kí thất bại."
+  },
+  "REGISTER_PASSWORD_INVALID": {
+    "en": "REGISTER_PASSWORD_INVALID",
+    "vi": "Mật khẩu không hợp lệ."
+  },
+  "REGISTER_USERNAME_INVALID": {
+    "en": "REGISTER_USERNAME_INVALID",
+    "vi": "Tên tài khoản không hợp lệ."
+  },
+  "REGISTER_USERNAME_TAKEN": {
+    "en": "REGISTER_USERNAME_TAKEN",
+    "vi": "Tên tài khoản đã tồn tại."
+  },
+  "RESULT_RECEIVE": {
+    "en": "You received",
+    "vi": "Bạn nhận được"
+  },
+  "RIGHT_SPIN": {
+    "en": "\nRIGHT SPIN\n",
+    "vi": "\nVÒNG PHẢI\n"
+  },
+  "SELECT_NEW_PLACE": {
+    "en": "Select new place",
+    "vi": "Chọn địa điểm mới"
+  },
+  "SELECT_NOW_PLACE": {
+    "en": "Select now location you are",
+    "vi": "Chọn vị trí hiện tại bạn đang ở"
+  },
+  "SEND_FEEDBACK_MESSAGE": {
+    "en": "\nPayment Support\n",
+    "vi": "\nHỗ trợ thanh toán\n"
+  },
+  "SEND_TO_TYPE": {
+    "en": "Please enter account...",
+    "vi": "Tài khoản nhận..."
+  },
+  "SENDER": {
+    "en": "\nSender\n",
+    "vi": "\nNgười gửi\n"
+  },
+  "SERI_NUMBER_TYPE": {
+    "en": "Please enter serial number",
+    "vi": "Nhập số seri..."
+  },
+  "SESSION": {
+    "en": "\nSESSION\n",
+    "vi": "\nPHIÊN\n"
+  },
+  "TIME_TITLE": {
+    "en": "TIME",
+    "vi": "THỜI GIAN"
+  },
+  "BET_LINE_TITLE": {
+    "en": "BET LINES",
+    "vi": "SỐ DÒNG ĐẶT"
+  },
+  "BET_LEVEL": {
+    "en": "BET LEVEL",
+    "vi": "MỨC CƯỢC"
+  },
+  "WIN_LEVEL": {
+    "en": "WIN LINES",
+    "vi": "SỐ DÒNG ĂN"
+  },
+  "RECEIVE_TITLE": {
+    "en": "RECEIVE",
+    "vi": "NHẬN"
+  },
+  "LINES": {
+    "en": "LINE",
+    "vi": "DÒNG ĐẶT"
+  },
+  "ROOM_TITLE": {
+    "en": "ROOM",
+    "vi": "PHÒNG"
+  },
+  "ACC_TITLE": {
+    "en": "ACCOUNT",
+    "vi": "TÀI KHOẢN"
+  },
+  "JACKPOT_TITLE_UPPERCASE":{
+    "en":"JACKPOTS",
+    "vi":"SỐ HŨ"
+  },
+  "SETTING_MENU": {
+    "en": "Setting",
+    "vi": "Cài đặt"
+  },
+  "SETTING_TITLE": {
+    "en": "\nSETTING\n",
+    "vi": "\nCÀI ĐẶT\n"
+  },
+  "SOUND": {
+    "en": "Sound",
+    "vi": "Âm thanh"
+  },
+  "STT": {
+    "en": "\nNO\n",
+    "vi": "\nSTT\n"
+  },
+  "THOI_HAN": {
+    "en": "Period",
+    "vi": "Thời hạn"
+  },
+  "TICKET": {
+    "en": "Ticket:",
+    "vi": "Vé:"
+  },
+  "TIME": {
+    "en": "Time",
+    "vi": "Thời gian"
+  },
+  "SESSION_TITLE": {
+    "en": "Session",
+    "vi": "Phiên"
+  },
+  "TITLE": {
+    "en": "\nTitle\n",
+    "vi": "\nTiêu đề\n"
+  },
+  "TRANSFER_MONEY": {
+    "en": "\nTRANSFER COIN\n",
+    "vi": "\nCHUYỂN TIỀN\n"
+  },
+  "TRANSFER_MONEY_MENU": {
+    "en": "Transfer Coin",
+    "vi": "Chuyển Tiền"
+  },
+  "TRY_LOGIN": {
+    "en": "Please login before playing the game",
+    "vi": "Bạn phải đăng nhập để chơi game"
+  },
+  "TYPE_PLACE": {
+    "en": "Enter your location",
+    "vi": "Nhập địa điểm"
+  },
+  "TYPE_STATUS_HERE": {
+    "en": "Type status here ...",
+    "vi": "Nhập trạng thái ..."
+  },
+  "UNKNOW_LOGIN_ERROR": {
+    "en": "Login error. Please try again later",
+    "vi": "Lỗi đăng nhập. Vui lòng thử lại sau."
+  },
+  "USER_NAME": {
+    "en": "Username",
+    "vi": "Tên User"
+  },
+  "USER_NAME_TYPE": {
+    "en": "Enter your username...",
+    "vi": "Nhập tài khoản..."
+  },
+  "VALUE": {
+    "en": "Value",
+    "vi": "Giá trị"
+  },
+  "VIBRATE": {
+    "en": "Vibrate",
+    "vi": "Rung"
+  },
+  "VIP": {
+    "en": "Vip",
+    "vi": "Vip"
+  },
+  "VIP_POINT": {
+    "en": "VIP Point: ",
+    "vi": "Điểm VIP: "
+  },
+  "VIP_TITLE": {
+    "en": "\nVIP CLUB\n",
+    "vi": "\nVIP CLUB\n"
+  },
+  "VIPCLUB_DESCRIPTION": {
+    "en": "The best way to become VIP.",
+    "vi": "Con đường trở thành VIP."
+  },
+  "VIPCLUB_MENU": {
+    "en": "Vipclub",
+    "vi": "Vipclub"
+  },
+  "YOU_ARE_DISCONNECTED": {
+    "en": "You are disconnected!",
+    "vi": "Mất kết nối!"
+  },
+  "YOU_ARE_KICKED": {
+    "en": "You are login on other device",
+    "vi": "Bạn đã đăng nhập trên thiết bị khác"
+  },
+  "TRANS_USER_NOT_EMPTY": {
+    "en": "Please enter account recieve",
+    "vi": "Bạn chưa nhập tài khoản nhận."
+  },
+  "TRANS_RE_USER_NOT_EMPTY": {
+    "en": "Please re-enter account recieve",
+    "vi": "Bạn chưa nhập lại tài khoản nhận."
+  },
+  "TRANS_OTP_NOT_EMPTY": {
+    "en": "Please enter your OTP code",
+    "vi": "Bạn chưa nhập mã OTP."
+  },
+  "TRANS_MONEY_NOT_EMPTY": {
+    "en": "Please enter your coin",
+    "vi": "Bạn chưa nhập số tiền cần chuyển."
+  },
+  "TRANS_CAPTCHA_NOT_EMPTY": {
+    "en": "Please enter captcha code",
+    "vi": "Bạn chưa nhập mã xác nhân."
+  },
+  "TRANS_MONEY_INVALID": {
+    "en": "Money incorrect format",
+    "vi": "Bạn nhập sai định dạng số tiền."
+  },
+  "TRANS_MONEY_BIGGER": {
+    "en": "Money is too small or too large",
+    "vi": "Số tiền quá nhỏ hoặc quá lớn."
+  },
+  "TRANS_USER_DIFF": {
+    "en": "Account name not match",
+    "vi": "Tên tài khoản nhận chưa giống nhau."
+  },
+  "TRANS_CAPTCHA_INVALID": {
+    "en": "Captcha code invalid",
+    "vi": "Mã xác nhận không đúng."
+  },
+  "TRANS_SENDER_NOT_FOUND": {
+    "en": "Account not existed",
+    "vi": "Tài khoản gửi không tồn tại."
+  },
+  "TRANS_PHONE_NOT_VERIFY": {
+    "en": "Account not verify phone",
+    "vi": "Tài khoản chưa xác thực số điện thoại."
+  },
+  "TRANS_RECEIVER_NOT_FOUND": {
+    "en": "Account recieve not existed",
+    "vi": "Tài khoản nhận không tồn tại."
+  },
+  "TRANS_WRONG_OTP": {
+    "en": "OTP code invalid",
+    "vi": "Sai mã OTP."
+  },
+  "TRANS_MONEY_NOT_ENOUGH": {
+    "en": "Not enough money",
+    "vi": "Tài khoản không đủ tiền."
+  },
+  "TRANS_AMOUNT_INVALID": {
+    "en": "Money incorrect",
+    "vi": "Số tiền chuyển không đúng."
+  },
+  "TRANS_AMOUNT_TO_BIG": {
+    "en": "Money is too large",
+    "vi": "Số tiền chuyển quá lớn."
+  },
+  "TRANS_BETTING_NOT_ENOUGH": {
+    "en": "You are not eligible for the number of the game",
+    "vi": "Tài khoản chưa đủ điều kiện số ván chơi."
+  },
+  "TRANS_WIN_NOT_ENOUGH": {
+    "en": "You are not eligible for the number of game won",
+    "vi": "Tài khoản chưa đủ điều kiện số ván thắng."
+  },
+  "BUYCARD_USER_NOT_FOUND": {
+    "en": "Account not existed",
+    "vi": "Tài khoản không tồn tại."
+  },
+  "BUYCARD_COIN_NOT_ENOUGH": {
+    "en": "Not enough coin",
+    "vi": "Số dư không đủ."
+  },
+  "BUYCARD_USER_NOT_VERIFY": {
+    "en": "You are not verify phone",
+    "vi": "Tài khoản chưa xác thực số điện thoại."
+  },
+  "BUYCARD_REACH_MAX": {
+    "en": "Max card to transfer",
+    "vi": "Tài khoản đã đổi đủ số thẻ trong một ngày."
+  },
+  "BUYCARD_SYSTEM_BUSY": {
+    "en": "Error system busy",
+    "vi": "Hệ thống bị lỗi."
+  },
+  "BUYCARD_PURCHASE_NOT_ENOUGH": {
+    "en": "You need to deposit 20.000 to withdraw",
+    "vi": "Cần nạp tổng cộng 20.000 để rút thẻ."
+  },
+  "BUYCARD_OUT_STOCK": {
+    "en": "The card you redeemed has expired, please choose a diffent card type or face value",
+    "vi": "Thẻ bạn đổi đã hết, vui lòng chọn loại thẻ hoặc mệnh giá khác."
+  },
+  "CASHTOPUP_SERI_NOT_EMPTY": {
+    "en": "Please enter your seri card",
+    "vi": "Bạn chưa nhập số seri."
+  },
+  "CASHTOPUP_CARD_NUMBER_NOT_EMPTY": {
+    "en": "Please enter your card number",
+    "vi": "Bạn chưa nhập mã số thẻ."
+  },
+  "CASHTOPUP_CAPTCHA_NOT_EMPTY": {
+    "en": "Please enter captcha code",
+    "vi": "Bạn chưa nhập mã captcha."
+  },
+  "CASHTOPUP_SERI_INVALID": {
+    "en": "Seri card incorrect format",
+    "vi": "Bạn nhập sai định dạng số seri."
+  },
+  "CASHTOPUP_CARD_NUMBER_INVALID": {
+    "en": "Card number incorrect format",
+    "vi": "Bạn nhập sai định dạng mã số thẻ."
+  },
+  "CASHTOPUP_CAPTCHA_INVALID": {
+    "en": "Captcha code incorrect",
+    "vi": "Mã captcha không đúng."
+  },
+  "CASHTOPUP_USER_NOT_FOUND": {
+    "en": "Account not existed",
+    "vi": "Tài khoản không tồn tại."
+  },
+  "CASHTOPUP_PIN_OR_SERIAL_INCORRECT": {
+    "en": "Your card number or serial incorrect",
+    "vi": "Mã thẻ hoặc serial không đúng."
+  },
+  "CASHTOPUP_CARD_EXPIRE": {
+    "en": "Card has expired",
+    "vi": "Thẻ đã hết hạn."
+  },
+  "CASHTOPUP_CARD_USER_OR_NOT_EXIST": {
+    "en": "Card has used or not existed",
+    "vi": "Thẻ đã sử dụng hoặc không tồn tại."
+  },
+  "CASHTOPUP_SYSTEM_ERROR": {
+    "en": "System error, please try again later",
+    "vi": "Hệ thống đang lỗi.."
+  },
+  "CASHTOPUP_SYSTEM_BUSY": {
+    "en": "System busy, please try again later",
+    "vi": "Hệ thống đang bận."
+  },
+  "VERIFYPHONE_USER_NOT_FOUND": {
+    "en": "Phone number not existed",
+    "vi": "Số điện thoại không tồn tại"
+  },
+  "VERIFYPHONE_VERIFIED_OTHER_PHONE": {
+    "en": "The account has been verified by another phone number",
+    "vi": "Tài khoản đã được xác thực bằng số điện thoại khác."
+  },
+  "VERIFYPHONE_VERIFIED_THIS_PHONE": {
+    "en": "Phone number has been verified",
+    "vi": "Số điện thoại đã được xác thực."
+  },
+  "VERIFYPHONE_OTP_WRONG": {
+    "en": "OTP invalid or expired",
+    "vi": "Mã OTP sai hoặc hết hạn."
+  },
+  "VERIFYPHONE_SYSTEM_ERROR": {
+    "en": "System error, please try again later",
+    "vi": "Hệ thống bị lỗi."
+  },
+  "VERIFYPHONE_OTHER_USER_VERIFIED": {
+    "en": "Phone number has been verified by another account",
+    "vi": "Số điện thoại đã được xác thực bởi tài khoản khác."
+  },
+  "VERIFYPHONE_PHONE_NOT_EMPTY": {
+    "en": "Please enter your phone number",
+    "vi": "Số điện thoại không được để trống."
+  },
+  "VERIFYPHONE_OTP_NOT_EMPTY": {
+    "en": "Please enter OTP code",
+    "vi": "Mã OTP không được để trống."
+  },
+  "VERIFYPHONE_PHONE_INVALID": {
+    "en": "Phone number incorrect format",
+    "vi": "Sai định dạng số điện thoại."
+  },
+  "VERIFYPHONE_PHONE_SUCCESS": {
+    "en": "Verified success",
+    "vi": "Xác thực thành công."
+  },
+  "JACKPOT_WIN": {
+    "en": "Jackpot",
+    "vi": "Jackpot"
+  },
+  "BIG_WIN": {
+    "en": "Big Win",
+    "vi": "Thắng lớn"
+  },
+  "OTHER_WIN": {
+    "en": "Others",
+    "vi": "Khác"
+  },
+  "WIN_BUTTON": {
+    "en": "WON",
+    "vi": "THẮNG"
+  },
+  "FREESPIN_DONE_FULL": {
+    "en": "You've complete {0} freespin",
+    "vi": "Bạn đã hoàn thành {0} lượt quay miễn phí"
+  },
+  "FREESPIN_DONE": {
+    "en": "You've completed",
+    "vi": "Bạn đã hoàn thành"
+  },
+  "FREESPIN_DONE1": {
+    "en": "FREESPINS",
+    "vi": "LẦN QUAY MIỄN PHÍ"
+  },
+  "CONGRATULATION": {
+    "en": "CONGRATULATION",
+    "vi": "CHÚC MỪNG"
+  },
+  "DEPOSIT_MONEY_TITLE": {
+    "en": "DEPOSIT MONEY",
+    "vi": "ĐỔI TIỀN"
+  },
+  "BONUS_TIP_1": {
+    "en": "AUTO PLAY AFTER",
+    "vi": "TỰ ĐỘNG CHƠI SAU"
+  },
+  "BONUS_TIP_2": {
+    "en": "SECONDS",
+    "vi": "GIÂY"
+  },
+  "BONUS_TIP_3": {
+    "en": "GAME ENDS AFTER",
+    "vi": "HOẠT ĐỘNG KẾT THÚC SAU"
+  },
+  "CAPTCHA_NOT_MATCH": {
+    "en": "Captcha not match",
+    "vi": "Captcha không đúng"
+  },
+  "OPTIONS": {
+    "en": "OPTIONS",
+    "vi": "TÙY CHỌN"
+  },
+  "TRANSACTION_HISTORY": {
+    "en": "Transaction history",
+    "vi": "Lịch sử giao dịch"
+  },
+  "MUST_LOGIN": {
+    "en": "You are not logged in?",
+    "vi": "Bạn cần đăng nhập để sử dụng?"
+  },
+  "TERM_CONDITION": {
+    "en": "Term & conditions",
+    "vi": "Điều khoản sử dụng"
+  },
+  "SOUND_ON": {
+    "en": "Sound on",
+    "vi": "Bật âm thanh"
+  },
+  "SOUND_OFF": {
+    "en": "Sound off",
+    "vi": "Tắt âm thanh"
+  },
+  "VIETTEL_CARD": {
+    "en": "Viettel card",
+    "vi": "Thẻ Viettel"
+  },
+  "VINA_CARD": {
+    "en": "Vina card",
+    "vi": "Thẻ Vina"
+  },
+  "MOBI_CARD": {
+    "en": "Mobi card",
+    "vi": "Thẻ Mobi"
+  },
+  "CARD_VALUE": {
+    "en": "Card value",
+    "vi": "Mệnh giá"
+  },
+  "DISCOUNT": {
+    "en": "Discount",
+    "vi": "Chiết khấu"
+  },
+  "CARD_TOTAL_VALUE": {
+    "en": "Total money",
+    "vi": "Tổng tiền"
+  },
+  "TRANSFER_FEE": {
+    "en": "Transfer fee: ",
+    "vi": "Phí chuyển khoản: "
+  },
+  "AMOUNT_DEDUCTED": {
+    "en": "Amount deducted: ",
+    "vi": "Số tiền bị trừ: "
+  },
+  "AGENT_LIST": {
+    "en": "LIST OF AGENTS",
+    "vi": "DANH SÁCH ĐẠI LÝ"
+  },
+  "REGULATION": {
+    "en": "REGULATIONS",
+    "vi": "QUY ĐỊNH"
+  },
+  "TRANSFER_REGULATION": {
+    "en": "Regulation of money transfer:\n- 2% transfer fee per transaction.\n- The minimum transfer value must be a multiple of 1.000, \nand a minimum of 10,000.\n- The system is not responsible for the wrong account transfer.\n\nTo get the OTP code:\n- Text OTP to xxxx.",
+    "vi": "Quy định đối với việc chuyển Tiền:\n- Phí chuyển Tiền 2% mỗi giao dịch.\n- Giá trị chuyển Tiền tối thiểu phải là bội số của 1.000, \nvà tối thiểu là 10.000 Tiền.\n- Hệ thống không chịu trách nhiệm với việc chuyển sai tài khoản.\n\nĐể nhận mã OTP:\n- Nhắn tin OTP gửi xxxx."
+  },
+  "CODE_MENHGIATHE_TYPE": {
+    "en": "Please enter card amount...",
+    "vi": "Điền mệnh giá thẻ..."
+  },
+  "CASHTOPUP_CARD_AMOUNT_NOT_EMPTY": {
+    "en": "Card amount not empty",
+    "vi": "Không được để trống mệnh giá thẻ."
+  },
+  "CASHTOPUP_CARD_AMOUNT_INVALID": {
+    "en": "Card amount incorrect format",
+    "vi": "Bạn nhập sai định dạng mệnh giá thẻ."
+  },
+  "TOPUP_SUCCESS": {
+    "en": "The system is processing your request. Please wait a few minutes.",
+    "vi": "Hệ thống đang xử lý yêu cầu của bạn. Vui lòng chờ trong ít phút."
+  },
+  "LINES_TITLE": {
+    "en": "LINES",
+    "vi": "DÒNG"
+  },
+  "AUTO_ROLL_CANT_USE": {
+    "en": "Auto roll mode does not user this function",
+    "vi": "Chế độ quay tự động không sử dụng chức năng này."
+  },
+  "AUTO_ROLL_OR_TRIAL_CANT_USE": {
+    "en": "Auto roll mode or trial play does not user this function",
+    "vi": "Chế độ quay tự động hoặc chơi thử không sử dụng chức năng này."
+  },
+  "BET_TITLE": {
+    "en": "BET",
+    "vi": "CƯỢC"
+  },
+  "FREE_SPIN_TITLE": {
+    "en": "Free spin",
+    "vi": "Quay miễn phí"
+  },
+  "AUTO_ROLL_TITLE": {
+    "en": "AUTO ROLL",
+    "vi": "QUAY\nTỰ ĐỘNG"
+  },
+  "AUTO_ROLL_TITLE_OFF": {
+    "en": "AUTO ROLL OFF",
+    "vi": "TẮT QUAY\nTỰ ĐỘNG"
+  },
+  "NOT_SUPPORT_TRIAL_PLAY": {
+    "en": "Not support in trial play mode",
+    "vi": "Không hỗ trợ trong chế độ chơi thử."
+  },
+  "TOTAL_BET_TITLE": {
+    "en": "TOTAL BET",
+    "vi": "TỔNG ĐẶT"
+  },
+  "TOTAL_WIN_TITLE": {
+    "en": "TOTAL WIN",
+    "vi": "TỔNG THẮNG"
+  },
+  "BET_LINES_TITLE": {
+    "en": "Total bet lines",
+    "vi": "Số dòng đặt"
+  },
+  "BET_LEVEL_TITLE": {
+    "en": "Bet level",
+    "vi": "Mức cược"
+  },
+  "WIN_LINE_TITLE": {
+    "en": "Win lines",
+    "vi": "Số dòng ăn"
+  },
+  "WIN_TITLE": {
+    "en": "Win",
+    "vi": "Nhận"
+  },
+  "NUMBER_BET_LINE": {
+    "en": "Line",
+    "vi": "Dòng đặt"
+  },
+  "WON_TITLE": {
+    "en": "Won",
+    "vi": "Thắng"
+  },
+  "RANKING_TITLE": {
+    "en": "RANKING",
+    "vi": "BẢNG TỔNG KẾT"
+  },
+  "ACCOUNT_TITLE": {
+    "en": "Account",
+    "vi": "Tài khoản"
+  },
+  "TOTAL_TITLE": {
+    "en": "Win",
+    "vi": "Tổng"
+  },
+  "DESCRIPTION_TITLE": {
+    "en": "Des",
+    "vi": "Mô tả"
+  },
+  "BIGWIN_TITLE": {
+    "en": "Bigwin",
+    "vi": "Thắng lớn"
+  },
+  "OTHERWIN_TITLE": {
+    "en": "Other",
+    "vi": "Khác"
+  },
+  "JACKPOTWIN_TITLE": {
+    "en": "Jackpot",
+    "vi": "Jackpot"
+  }
+}

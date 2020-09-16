@@ -1,0 +1,69 @@
+
+spine_eff_symbol.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 593, 625
+  size: 303, 271
+  orig: 305, 273
+  offset: 1, 1
+  index: -1
+1
+  rotate: true
+  xy: 592, 55
+  size: 291, 294
+  orig: 293, 296
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 297, 56
+  size: 290, 293
+  orig: 292, 295
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 73
+  size: 293, 277
+  orig: 295, 279
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 632
+  size: 293, 264
+  orig: 295, 266
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 359
+  size: 281, 271
+  orig: 283, 273
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 285, 352
+  size: 283, 273
+  orig: 285, 275
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 570, 348
+  size: 280, 275
+  orig: 282, 277
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 297, 627
+  size: 294, 269
+  orig: 296, 271
+  offset: 1, 1
+  index: -1

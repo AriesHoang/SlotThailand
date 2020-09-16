@@ -1,0 +1,171 @@
+{
+  "script": [
+    "src/js/res.js",
+    "src/js/Global/Global.js",
+    "src/js/Global/TextureDownloader.js",
+    "src/js/Global/SoundPlayer.js",
+    "src/js/Global/UserAvatar.js",
+    "src/js/Core/ToggleNodeGroup.js",
+    "src/js/Core/ButtonToggle.js",
+    "src/js/Core/KingIDSDK.js",
+    "src/js/Core/WebSprite.js",
+    "src/js/Core/WidgetButton.js",
+    "src/js/Core/MultiLanguage.js",
+    "src/js/Socket/HttpClient.js",
+    "src/js/Socket/LobbyClient.js",
+    "src/js/Socket/LobbyError.js",
+    "src/js/Socket/SmartfoxUtils.js",
+    "src/js/Socket/SmartfoxClient.js",
+    "src/js/Home/HomeDownloadManager.js",
+    "src/js/Home/FloatButton/HomeFloatButton.js",
+    "src/js/Home/HomeCMSConfig.js",
+    "src/js/Home/HomeLoadingLayer.js",
+    "src/js/Home/HomeWaittingLayer.js",
+    "src/js/Home/HomeGameLayer.js",
+    "src/js/Home/HomePopupLayer.js",
+    "src/js/Home/HomeMinigamePopup.js",
+    "src/js/Home/HomeJackpotEvent.js",
+    "src/js/Home/HomeTopBar.js",
+    "src/js/Home/HomeBottomBar.js",
+    "src/js/Home/HomeBoderLayer.js",
+    "src/js/Home/HomeJackpotLayer.js",
+    "src/js/Home/HomeMenuLayer.js",
+    "src/js/Home/HomeScene.js",
+    "src/js/Home/HomeAgencyLayer.js",
+    "src/js/Home/Controller/HomeBaseController.js",
+    "src/js/Home/Controller/HomeInboxDialogController.js",
+    "src/js/Home/Controller/HomeChargeController.js",
+    "src/js/Home/Controller/HomeRankingDialogController.js",
+    "src/js/Home/Controller/HomeChatDialogController.js",
+    "src/js/Home/Controller/HomeLuckyController.js",
+    "src/js/Home/Controller/HomeLuckyHistoryController.js",
+    "src/js/Home/Controller/HomeController.js",
+    "src/js/Home/Controller/HomeGameController.js",
+    "src/js/Home/Controller/HomeProfileController.js",
+    "src/js/Home/Controller/HomeJackpotController.js",
+    "src/js/Home/Controller/HomeHistoryController.js",
+    "src/js/Home/Controller/HomeSecurityController.js",
+    "src/js/Dialog/Dialog.js",
+    "src/js/Dialog/BackButtonDialog.js",
+    "src/js/Dialog/CloseButtonDialog.js",
+    "src/js/Home/Dialog/HomeLoadingPopup.js",
+    "src/js/Home/Dialog/HomeNotifyPopup.js",
+    "src/js/Home/Dialog/HomeInboxDetailDialog.js",
+    "src/js/Home/Dialog/HomeInboxDialog.js",
+    "src/js/Home/Dialog/HomeGiftCodeDialog.js",
+    "src/js/Home/Dialog/HomeSecurityDialog.js",
+    "src/js/Home/Dialog/HomePolicyDialog.js",
+    "src/js/Home/Dialog/HomeLoginDialog.js",
+    "src/js/Home/Dialog/HomePasswordDialog.js",
+    "src/js/Home/Dialog/HomeHistoryDialog.js",
+    "src/js/Home/Dialog/HomeChatDialog.js",
+    "src/js/Home/Dialog/HomeProfileDialog.js",
+    "src/js/Home/Dialog/HomeRankingDialog.js",
+    "src/js/Home/Dialog/HomeLuckyDialog.js",
+    "src/js/Home/Dialog/HomeLuckyHelpDialog.js",
+    "src/js/Home/Dialog/HomeLuckyHistoryDialog.js",
+    "src/js/Home/Dialog/HomeLuckyResultDialog.js",
+    "src/js/Home/Dialog/HomeSupportDialog.js",
+    "src/js/Home/Dialog/HomePlaceProfileDialog.js",
+    "src/js/Home/Dialog/HomeVipClubDialog.js",
+    "src/js/Home/Dialog/HomeVipPolicyDialog.js",
+    "src/js/Home/Dialog/HomeEventDialog.js",
+    "src/js/Home/Dialog/HomeSettingDialog.js",
+    "src/js/Home/Dialog/HomeChargeMoneyDialog.js",
+    "src/js/SceneNavigator.js"
+  ],
+  "texture": [
+    {
+      "img": "res/Home/home_bg.jpg"
+    },
+    {
+      "img": "res/Home/gate_dot_active.png"
+    },
+    {
+      "img": "res/Home/gate_dot_deactive.png"
+    },
+    {
+      "img": "res/Home/dialog.png",
+      "plist": "res/Home/dialog.plist"
+    },
+    {
+      "img": "res/Home/FloatButton.png",
+      "plist": "res/Home/FloatButton.plist"
+    },
+    {
+      "img": "res/Home/home_texture_new.png",
+      "plist": "res/Home/home_texture_new.plist"
+    },
+    {
+      "img": "res/Home/profile_texture.png",
+      "plist": "res/Home/profile_texture.plist"
+    },
+    {
+      "img": "res/Home/banner1.png"
+    },
+    {
+      "img": "res/Home/event_frame.png"
+    },
+    {
+      "img": "res/Home/vinaphone.png"
+    },
+    {
+      "img": "res/Home/mobifone.png"
+    },
+    {
+      "img": "res/Home/viettel.png"
+    },
+    {
+      "img": "res/IconLobby/kingdom.png"
+    }
+  ],
+  "fonts": [
+    {
+      "img": "res/Home/fonts/home_font_jackpot1.png",
+      "fnt": "res/Home/fonts/home_font_jackpot1.fnt"
+    },
+    {
+      "img": "res/Home/fonts/home_font_jackpot2.png",
+      "fnt": "res/Home/fonts/home_font_jackpot2.fnt"
+    },
+    {
+      "img": "res/Home/fonts/home_font_jackpot3.png",
+      "fnt": "res/Home/fonts/home_font_jackpot3.fnt"
+    },
+    {
+      "img": "res/Home/fonts/home_font_gold.png",
+      "fnt": "res/Home/fonts/home_font_gold.fnt"
+    }
+  ],
+  "spine": {
+    "slothome_logo": {
+      "json": "res/Animation/logo_animation.json",
+      "atlas": "res/Animation/logo_animation.atlas",
+      "texture": [
+        "res/Animation/logo_animation.png"
+      ]
+    },
+    "slothome_flower": {
+      "json": "res/Animation/yellow_flower_animation.json",
+      "atlas": "res/Animation/yellow_flower_animation.atlas",
+      "texture": [
+        "res/Animation/yellow_flower_animation.png"
+      ]
+    },
+    "mini_poker": {
+      "json": "res/Home/Mini_Poker.json",
+      "atlas": "res/Home/Mini_Poker.atlas",
+      "texture": [
+        "res/Home/Mini_Poker.png"
+      ]
+    }
+  },
+  "raw": [
+    "res/Fonts/Myriad_Pro_Regular.ttf",
+    "res/Fonts/Myriad_Pro_Bold.ttf",
+    "res/Fonts/Arial_Bold.ttf",
+    "res/Data/Language.json"
+  ],
+  "sound": [
+  ]
+}

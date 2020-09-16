@@ -1,0 +1,48 @@
+
+touch_bonus_lion.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bl1
+  rotate: false
+  xy: 2, 190
+  size: 92, 92
+  orig: 94, 94
+  offset: 1, 1
+  index: -1
+Bl2
+  rotate: false
+  xy: 2, 96
+  size: 92, 92
+  orig: 94, 94
+  offset: 1, 1
+  index: -1
+R1
+  rotate: false
+  xy: 96, 190
+  size: 92, 92
+  orig: 94, 94
+  offset: 1, 1
+  index: -1
+R2
+  rotate: false
+  xy: 2, 2
+  size: 92, 92
+  orig: 94, 94
+  offset: 1, 1
+  index: -1
+Y1
+  rotate: false
+  xy: 96, 96
+  size: 92, 92
+  orig: 94, 94
+  offset: 1, 1
+  index: -1
+Y2
+  rotate: false
+  xy: 190, 190
+  size: 92, 92
+  orig: 94, 94
+  offset: 1, 1
+  index: -1
